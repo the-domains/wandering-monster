@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="the-grid-solution" content=" " />
+    <title>Wandering Monster</title>
+    <link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/css/font/Icons/Icons.css" />
+    <link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/css/scale/mini.css" media="(max-width: 19.9375em)" />
+    <link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/css/scale/small.css" media="(min-width: 20em) and (max-width: 45.0624em) " />
+    <link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/css/scale/medium.css" media="(min-width: 45.0625em) and (max-width: 90.0624em)" />
+    <link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/css/scale/large.css" media="(min-width: 90.0625em)" />
+    <link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/css/asides/ctas/follow.css" /><style type="text/css">
+  .box-sizing {
+  -o-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+html {
+  width: 100%;
+}
+body {
+  width: 100%;
+  background: #eeeeee;
+  color: #bbbbbb;
+  overflow-x: hidden;
+}
+body:after {
+  content: "";
+  position: fixed;
+  left: 50%;
+  top: 0;
+  height: 100%;
+  border-right: 1px solid #dddddd;
+  opacity: .2;
+  z-index: -1;
+}
+@media screen and (max-width: 720px) {
+  body:after {
+    display: none;
+  }
+}
+body a,
+body .cta {
+  color: #cccccc;
+  text-decoration: none;
+  display: inline-block;
+}
+body a:hover *,
+body .cta:hover * {
+  -webkit-transition-duration: 0.2s;
+  -moz-transition-duration: 0.2s;
+  -o-transition-duration: 0.2s;
+  -ms-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  -webkit-transition-delay: 0s;
+  -moz-transition-delay: 0s;
+  -o-transition-delay: 0s;
+  -ms-transition-delay: 0s;
+  transition-delay: 0s;
+  -webkit-transition-timing-function: linear;
+  -moz-transition-timing-function: linear;
+  -o-transition-timing-function: linear;
+  -ms-transition-timing-function: linear;
+  transition-transition-timing-function: linear;
+  -webkit-transition-property: all;
+  -moz-transition-property: all;
+  -ms-transition-property: all;
+  transition-property: all;
+  opacity: .8;
+}
+*,
+*:before,
+*:after {
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern";
+  -webkit-font-feature-settings: "kern";
+  -moz-font-feature-settings: "kern";
+  -moz-font-feature-settings: "kern=1";
+  box-sizing: inherit;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  font-weight: normal;
+  position: relative;
+  padding: 0;
+  margin: 0;
+}
+article.post .title {
+  color: #aaaaaa;
+}
+article.post .description {
+  color: #bbbbbb;
+}
+article.post .overlay {
+  opacity: 0.06;
+}
+article.post .attribution .source {
+  color: #dddddd;
+}
+article.post .attribution .name {
+  color: #bbbbbb;
+}
+article.post .attribution .avatar {
+  background-size: cover;
+}
+svg text,
+svg path {
+  fill: #aaaaaa;
+}
+
+</style><style type="text/css">
+  
+/*
+html:not(.gss-ready) {
+  opacity: 0;
+}
+*/
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+</style><style id="gss-precomputed">
+@media (max-width: 720px) {
+#u15{font-size: 0.99rem;}
+#u15:before{content: ""; display: none;}
+#u14{position:relative;font-size: 0.99rem;}
+#u13{font-size: 0.99rem;}
+#u66bb03a2-17b8-4c19-ad69-57a95e5922b0{position: relative; height: 0rem; top: 0rem;;font-size: 0.99rem;}
+#u11{width: 14.4rem; height: 0rem; position: absolute; left: 0rem; top: 0rem;;font-size: 0.99rem;}
+#u11 .title { z-index: 2; }
+
+#u9{font-size: 0.99rem;}
+#u8{font-size: 0.48rem; line-height: 0.56rem; font-weight: 800;;}
+
+#u10{font-size: 0.99rem;}
+
+#u29{font-size: 0.99rem;}
+
+}
+@media (min-width: 721px) {
+#u15{font-size: 0.99rem;}
+#u15:before{content: ""; display: none;}
+#u14{position:relative;font-size: 0.99rem;}
+#u13{font-size: 0.99rem;}
+#u66bb03a2-17b8-4c19-ad69-57a95e5922b0{position: relative; height: 0rem; top: 0rem;;font-size: 0.99rem;}
+#u11{width: 14.4rem; height: 0rem; position: absolute; left: 0rem; top: 0rem;;font-size: 0.99rem;}
+#u11 .title { z-index: 2; }
+
+#u9{font-size: 0.99rem;}
+#u8{font-size: 0.48rem; line-height: 0.56rem; font-weight: 800;;}
+
+#u10{font-size: 0.99rem;}
+
+#u29{font-size: 0.99rem;}
+
+}</style><script src="//ajax.googleapis.com/ajax/libs/webfont/1.5.10/webfont.js"></script><script>WebFont.load({"google":{"families":["Karla:400,700","Roboto:400,400italic,700,700italic"]}});</script><style type="text/css">html {font-family: 'Roboto';font-weight: 400;}
+ .layout-system .hero {font-family: 'Karla';font-weight: 700;}
+ .layout-system .title {font-family: 'Karla';}
+ .layout-system .subtitle {font-family: 'Karla';}
+ .layout-system .description {font-family: 'Roboto';}
+ .layout-system .title {font-weight: 400;}
+ .layout-system .subtitle {font-weight: 700;}
+ a {font-family: 'Roboto';font-weight: 400;}
+ .attribution {font-family: 'Roboto';font-weight: 400;text-transform: uppercase;letter-spacing: .03em;}
+ .layout-system .quote {font-family: 'Karla';font-weight: 400;font-style: italic;}
+ .layout-system .title {text-transform: uppercase;letter-spacing: .03em;}</style></head>
+
+  <body id="u30"><script src="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/assets/gss-init.js" id="u0"></script>
+    <!-- <div id="grid">
+  <div class="col1"></div>
+  <div class="col2"></div>
+  <div class="col3"></div>
+  <div class="col4"></div>
+  <div class="col5"></div>
+  <div class="col6"></div>
+  <div class="col7"></div>
+  <div class="col8"></div>
+  <div class="col9"></div>
+  <div class="col10"></div>
+  <div class="col11"></div>
+  <div class="col12"></div>
+  <div class="col13"></div>
+  <div class="col15"></div>
+  <div class="col16"></div>
+  <div class="col17"></div>
+  <div class="col18"></div>
+  <div class="col19"></div>
+  <div class="col20"></div>
+  <div class="row1"></div>
+  <div class="row2"></div>
+  <div class="row3"></div>
+  <div class="row4"></div>
+  <div class="row5"></div>
+  <div class="row6"></div>
+  <div class="row7"></div>
+  <div class="row8"></div>
+  <div class="row9"></div>
+  <div class="row10"></div>
+  <div class="row11"></div>
+  <div class="row12"></div>
+  <div class="row13"></div>
+  <div class="row15"></div>
+  <div class="row16"></div>
+  <div class="row17"></div>
+  <div class="row18"></div>
+  <div class="row19"></div>
+  <div class="row20"></div>
+  <div class="row21"></div>
+  <div class="row22"></div>
+  <div class="row23"></div>
+  <div class="row24"></div>
+  <div class="row25"></div>
+  <div class="row26"></div>
+  <div class="row27"></div>
+  <div class="row28"></div>
+  <div class="row29"></div>
+  <div class="row30"></div>
+</div> -->
+    <div class="layout-system user artistic-d4 w-assets sections" id="u15">
+      <div style="position:relative" id="u14">
+        <section class="fallback section" id="u13">
+          <article class="post" id="u66bb03a2-17b8-4c19-ad69-57a95e5922b0" style="position:relative"><style type="text/gss" scoped="scoped" id="u4">@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/sections/stack-vertical.gss;
+@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/sections/align-justify-y.gss;
+@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/sections/align-center-x.gss;
+block-gap-horizontal = 0;
+block-gap-vertical = 0;
+block-gap-between = 0;
+</style>
+            <div class="block wrapper" id="u11"><style type="text/gss" scoped="scoped" id="u7">@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/variations/cover.gss;
+@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/vfl/v-cover.gss;
+@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/vfl/h-bg_media.gss;
+@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/blocks/align-center-y.gss;
+@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/blocks/align-center-x.gss;
+@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/typography/small.gss;
+@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/css/variations/source-name.css;
+inner-gap = 5g;
+inner-gap-vertical: = 0;
+inner-gap-horizontal: = 0;
+outer-gap-left >= 0 !require;
+outer-gap-top >= 0 !require;
+bg_media-opacity == .8;
+</style>
+              <a href="https://twitter.com/DrJohnsonMD/status/601906565260713984" id="u9">
+                <h1 class="title text" id="u8"></h1>
+              </a>
+              <p class="description text" id="u10"></p>
+            </div>
+          </article>
+        </section>
+      </div>
+    </div>
+    <div id="u29">
+      <link rel="stylesheet/gss" type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/layout.gss" />
+      <link rel="stylesheet/gss" type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/variables.gss" />
+      <link rel="stylesheet/gss" type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/debug.gss" />
+      <link rel="stylesheet/gss" type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/motion/animation.gss" /><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/variations/cover.gss">
+//implement cover opacity
+
+.cover {
+  left: >= ^left;
+  width: == ^width;
+  height: <= ^height !medium100;
+}
+
+.attribution {
+  width: == &intrinsic-width;
+  height: == &intrinsic-height;
+  top: == ^(.cover)[bottom] + 2g;
+  left: >= ^(.cover)[left]; 
+}
+</script><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/vfl/v-cover.gss">
+@v |(.cover)| !strong;
+
+</script><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/vfl/h-bg_media.gss">
+@h |(.cover)| !require;
+</script><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/blocks/align-center-y.gss">
+inner-gap-top >= inner-gap-vertical !require;
+inner-gap-bottom == inner-gap-top !require;
+
+</script><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/blocks/align-center-x.gss">
+inner-gap-right == inner-gap-left !require;
+outer-gap-right == outer-gap-left !require;
+inner-gap-left >= inner-gap-horizontal !require;
+
+
+</script><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/typography/small.gss">
+.title {
+  z-index: 2;
+  font-size: = 6g;
+  line-height: = &font-size + 1g;
+  height: == &intrinsic-height !require;
+  font-weight: == 800;
+}
+
+.attribution {
+  z-index: 2;
+  font-size: = 1.5g;
+  line-height: = &font-size + 1g;
+  letter-spacing: .05em;
+  width: == &intrinsic-width;
+  height: == &intrinsic-height !require;
+  a{
+    font-size: = 1.5g;
+    letter-spacing: .05em;
+  }
+  @if ::window[width] <= $taylorW/2 {
+    font-size: = 3g;
+    a{
+      font-size: = 3g;
+    }
+  }
+}
+
+.paragraph {
+  font-size: = 2g;
+  @if ::window[width] <= $taylorW/2 {
+    font-size: = 3g;
+  }
+  line-height: = &font-size + 1g;
+  height: == &intrinsic-height !require;
+}
+
+.quote{
+  font-size: = 4g;
+  line-height: = &font-size + 1g;
+  height: == &intrinsic-height !require;
+  font-weight: = 800;
+}
+
+.cta-text {
+  font-size: = 2g;
+  line-height: = &font-size;
+  @if ::window[width] <= $taylorW/2 {
+    font-size: = 3.5g;
+  }
+}
+
+.cta-deco {
+  font-size: = 18g;
+  line-height: = &font-size - 2g;
+}
+
+.play-button{
+  font-size: == 2g;
+  line-height: = &font-size + .5g;
+  center-y: == (^ .cover)[center-y];
+  center-x: == (^ .cover)[center-x];
+  width: == &intrinsic-width;
+  height: == &intrinsic-height;
+  white-space: nowrap;
+  @if ::window[width] <= $taylorW/2 {
+    font-size: == 3g;
+  }
+}
+
+
+</script><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/sections/stack-vertical.gss">
+width: == intrinsic-width !require;
+top: == 0 !require;
+
+.block {
+  :first[top]   ==           ^block-gap-top     !require;
+  :next[top]    == &bottom + ^block-gap         !require;
+  :last[bottom] == ^height - ^block-gap-bottom  !require;
+
+  &outer-gap-left == 0;
+  &outer-gap-right == 0;
+
+  left:  ==          ^block-gap-left  + &outer-gap-left  !strong100;
+  right: == ^width - ^block-gap-right - &outer-gap-right !strong100;
+
+  outer-gap-left >= 0 !require;
+  outer-gap-right >= 0 !require;
+}
+</script><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/sections/align-justify-y.gss">
+block-gap-top == block-gap-vertical;
+block-gap-top >= block-gap-vertical !require;
+block-gap-top == block-gap-bottom !require;
+
+
+block-gap     == block-gap-between;
+
+block-gap     == block-gap-top !require;
+
+</script><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/sections/align-center-x.gss">
+block-gap-left == block-gap-right !require;
+block-gap-left >= block-gap-horizontal !require;
+block-gap-left == block-gap-horizontal !require;
+
+</script></div>
+  </body>
+
+</html>
