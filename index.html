@@ -138,9 +138,9 @@ html:not(.gss-ready) {
 #u27 .leading { z-index: 2; }
 #u27 .overlay { z-index: 2; }
 
-#u13{opacity: 0.4; height: 0.24rem; width: 0.24rem; position: absolute; top: -0.4rem; left: 0rem;;font-size: 0.99rem;}
+#u13{opacity: 0.4; height: 0.24rem; width: 0.24rem; position: absolute; top: -0.4rem; left: 3.48rem;;font-size: 0.99rem;}
 
-#u15{opacity: 0.4; width: 0.24rem; height: 0.24rem; position: absolute; left: 0rem;;font-size: 0.99rem;}
+#u15{opacity: 0.4; width: 0.24rem; height: 0.24rem; position: absolute; left: 3.48rem;;font-size: 0.99rem;}
 
 #u17{opacity: 0.05; height: 1.44rem; width: 1.44rem; position: absolute; top: 0.72rem; left: 2.88rem;;font-size: 0.99rem;}
 
@@ -296,9 +296,9 @@ animation-play-state: running;
 #u27 .leading { z-index: 2; }
 #u27 .overlay { z-index: 2; }
 
-#u13{opacity: 0.4; height: 0.24rem; width: 0.24rem; position: absolute; top: -0.4rem; left: 0rem;;font-size: 0.99rem;}
+#u13{opacity: 0.4; height: 0.24rem; width: 0.24rem; position: absolute; top: -0.4rem; left: 1.68rem;;font-size: 0.99rem;}
 
-#u15{opacity: 0.4; width: 0.24rem; height: 0.24rem; position: absolute; left: 0rem;;font-size: 0.99rem;}
+#u15{opacity: 0.4; width: 0.24rem; height: 0.24rem; position: absolute; left: 1.68rem;;font-size: 0.99rem;}
 
 #u17{opacity: 0.05; height: 1.44rem; width: 1.44rem; position: absolute; top: 0.72rem; left: 1.08rem;;font-size: 0.99rem;}
 
@@ -705,9 +705,9 @@ block-gap-between = 0;
 @import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/decorations/overlay/big.gss;
 @import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/decorations/overlay/attachments/cover-center-y.gss;
 @import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/decorations/overlay/alignments/cover-center-x.gss;
-@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/asides/attribution/alignments/block-left.gss;
-@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/decorations/leading/alignments/block-left.gss;
-@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/decorations/trailing/alignments/block-left.gss;
+@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/asides/attribution/alignments/cover-center-x.gss;
+@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/decorations/leading/alignments/cover-center-x.gss;
+@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/decorations/trailing/alignments/cover-center-x.gss;
 inner-gap:= 1g;
 inner-gap-vertical:= 0;
 inner-gap-horizontal:= 0;
@@ -1128,22 +1128,19 @@ inner-gap-left >= inner-gap-horizontal !require;
   center-x: == ^(.cover)[center-x]; 
 }
 
-</script><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/asides/attribution/alignments/block-left.gss">
+</script><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/asides/attribution/alignments/cover-center-x.gss">
 .attribution {
-  left: == ^left; 
-  @if ::window[width] <= $taylorW/2 {
-    left: == ^left + 1md !strong; 
-  }
+  center-x: == ^(.cover)[center-x];
 }
 
-</script><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/decorations/leading/alignments/block-left.gss">
+</script><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/decorations/leading/alignments/cover-center-x.gss">
 .leading {
-  left: == ^left; 
+  center-x: == ^(.cover)[center-x];
 }
 
-</script><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/decorations/trailing/alignments/block-left.gss">
+</script><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/decorations/trailing/alignments/cover-center-x.gss">
 .trailing {
-  left: == ^left; 
+  center-x: == ^(.cover)[center-x];
 }
 
 </script><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/sections/stack-vertical.gss">
