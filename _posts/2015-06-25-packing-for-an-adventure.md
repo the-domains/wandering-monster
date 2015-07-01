@@ -11,7 +11,7 @@ tags:
   - clothes
   - gear
 datePublished: '2015-06-25T13:12:07.763Z'
-dateModified: '2015-07-01T19:56:38.784Z'
+dateModified: '2015-07-01T19:59:31.177Z'
 sourcePath: _posts/2015-06-25-packing-for-an-adventure.md
 published: true
 authors: []
@@ -20,7 +20,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: null
+url: packing-for-an-adventure/index.html
+_type: Article
 
 ---
 To travel is to see places. To be able not just to travel, but to go on an adventure requires the ability to decide on a moments notice to go. 
