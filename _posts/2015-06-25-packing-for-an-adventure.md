@@ -17,7 +17,7 @@ publisher:
   url: null
   favicon: null
 datePublished: '2015-06-25T13:12:07.763Z'
-dateModified: '2015-06-25T13:12:07.763Z'
+dateModified: '2015-07-01T19:55:07.233Z'
 sourcePath: _posts/2015-06-25-packing-for-an-adventure.md
 published: true
 _type: null
