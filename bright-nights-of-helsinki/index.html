@@ -1,4 +1,4 @@
-<!DOCTYPE html><html><head><TITLE>Bright nights of Helsinki</TITLE><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/><meta name="the-grid-solution" content="856649c8-6486-4f41-af02-87caf2135532"/><meta name="the-grid-version"/><link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.2.46/src/layouts/shared/assets/css/Icons/Icons.css"/><link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.2.46/src/layouts/shared/assets/css/scale/mini.css" media="(max-width: 19.9375em)"/><link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.2.46/src/layouts/shared/assets/css/scale/small.css" media="(min-width: 20em) and (max-width: 45.0624em)"/><link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.2.46/src/layouts/shared/assets/css/scale/medium.css" media="(min-width: 45.0625em) and (max-width: 90.0624em)"/><link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.2.46/src/layouts/shared/assets/css/scale/large.css" media="(min-width: 90.0625em)"/><style type="text/css">html {
+<!DOCTYPE html><html><head><TITLE>Bright nights of Helsinki</TITLE><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/><meta name="the-grid-solution" content="7ebe0fc0-513f-4220-add6-5aed8a2a6d4a"/><meta name="the-grid-version"/><link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.2.49/src/layouts/shared/assets/css/Icons/Icons.css"/><link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.2.49/src/layouts/shared/assets/css/scale/mini.css" media="(max-width: 19.9375em)"/><link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.2.49/src/layouts/shared/assets/css/scale/small.css" media="(min-width: 20em) and (max-width: 45.0624em)"/><link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.2.49/src/layouts/shared/assets/css/scale/medium.css" media="(min-width: 45.0625em) and (max-width: 90.0624em)"/><link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.2.49/src/layouts/shared/assets/css/scale/large.css" media="(min-width: 90.0625em)"/><style type="text/css">html {
  width: 100%;
 }
 body {
@@ -88,6 +88,45 @@ body .text-decoration {
  border-radius: 100px;
  display: inline-block;
  vertical-align: top;
+}
+button {
+ cursor: pointer;
+}
+body.modal-open {
+ overflow: hidden;
+ position: fixed;
+}
+body.modal-open .modal {
+ width: 100%;
+ height: 100%;
+ overflow: hidden;
+ position: fixed !important;
+ top: 0;
+ left: 0;
+ z-index: 2147483600;
+ /* not on top of extension */
+}
+iframe {
+ border: none;
+ outline: 0;
+}
+.embed iframe,
+.embed video {
+ width: 100%;
+ height: 100%;
+}
+button.loading,
+.button.loading {
+ background-position: center;
+ background-repeat: no-repeat;
+ -webkit-animation: loading 1s infinite;
+ -moz-animation: loading 1s infinite;
+ -o-animation: loading 1s infinite;
+ animation: loading 1s infinite;
+}
+button.loading > span,
+.button.loading > span {
+ visibility: hidden;
 }</style><style type="text/css">/*
 html:not(.gss-ready) {
  opacity: 0;
@@ -100,138 +139,138 @@ html:not(.gss-ready) {
  outline: none;
 }</style><style id="gss-precomputed">@media (max-width:720px) {
 #page-ab310613-2b92-4c58-bee0-c5616d705076{width: 7.2rem;;background-color: rgba(0, 0, 0, 0);}
-#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 {height: 0.63rem; width: 6.48rem; position: absolute; top: 0.36rem; left: 0.36rem;;background-color: rgb(250, 250, 251); }
+#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 {height: 0.63rem; width: 7.2rem; position: absolute; top: 0rem; left: 0rem;;background-color: rgb(250, 250, 251); }
 #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076:before{content: ""; display: none;}
 #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 .group.navigation ol, #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 .group.navigation ul { list-style: none; }
 
 #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 .group.navigation ol li, #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 .group.navigation ul li { display: inline-block; white-space: nowrap; }
 
-#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0{font-size: 0.16rem; height: 0.63rem; width: 5.62rem; position: absolute; top: 0rem; left: 0.87rem;;}
-#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0-ul-0{width: 4.97rem; position: absolute; top: 0.22rem; left: 0.33rem;;background-color: rgba(0, 0, 0, 0);}
+#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0{font-size: 0.16rem; height: 0.63rem; width: 7.2rem; position: absolute; top: 0rem; left: 0rem;;background-color: rgb(240, 241, 245);}
+#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0-ul-0{width: 6.56rem; position: absolute; top: 0.22rem; left: 0.33rem;;background-color: rgba(0, 0, 0, 0);}
 #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0-ul-0-li-0-a-0{line-height: 0.1600rem;;color: rgb(42, 39, 29);font-weight: 500;}
-#u-249bd5d9-34df-4bd0-ba8e-11b3e5388b73 {height: 4.5rem; width: 6.48rem; position: absolute; top: 1.71rem; left: 0.36rem;;background-color: rgb(250, 250, 251); }
+#u-249bd5d9-34df-4bd0-ba8e-11b3e5388b73 {height: 4.5rem; width: 3.6rem; position: absolute; top: 0.63rem; left: 1.8rem;;background-color: rgb(250, 250, 251); }
 #u-249bd5d9-34df-4bd0-ba8e-11b3e5388b73:before{content: ""; display: none;}
-#u-d02eaec0-b3a8-4585-ba5a-89327b66d019 {height: 4.5rem; width: 6.48rem; position: absolute; top: 6.930000000000001rem; left: 0.36rem;;background-color: rgb(250, 250, 251); }
+#u-d02eaec0-b3a8-4585-ba5a-89327b66d019 {height: 4.5rem; width: 3.6rem; position: absolute; top: 5.13rem; left: 1.8rem;;background-color: rgb(250, 250, 251); }
 #u-d02eaec0-b3a8-4585-ba5a-89327b66d019:before{content: ""; display: none;}
-#u-6e5c540b-ee4a-4080-939b-955d9c681d68 {height: 4.5rem; width: 6.48rem; position: absolute; top: 12.149999999999999rem; left: 0.36rem;;background-color: rgb(250, 250, 251); }
+#u-6e5c540b-ee4a-4080-939b-955d9c681d68 {height: 4.5rem; width: 3.6rem; position: absolute; top: 9.629999999999999rem; left: 1.8rem;;background-color: rgb(250, 250, 251); }
 #u-6e5c540b-ee4a-4080-939b-955d9c681d68:before{content: ""; display: none;}
-#u-5e33c19d-7a84-462c-86e8-015e7e9be4fa {height: 4.5rem; width: 6.48rem; position: absolute; top: 17.369999999999997rem; left: 0.36rem;;background-color: rgb(250, 250, 251); }
+#u-5e33c19d-7a84-462c-86e8-015e7e9be4fa {height: 4.5rem; width: 3.6rem; position: absolute; top: 14.129999999999999rem; left: 1.8rem;;background-color: rgb(250, 250, 251); }
 #u-5e33c19d-7a84-462c-86e8-015e7e9be4fa:before{content: ""; display: none;}
-#u-links-block-ab310613-2b92-4c58-bee0-c5616d705076 {width: 6.48rem; position: absolute; top: 22.589999999999996rem; left: 0.36rem;;background-color: rgb(250, 250, 251); }
+#u-links-block-ab310613-2b92-4c58-bee0-c5616d705076 {height: 0rem; width: 7.2rem; position: absolute; top: 18.63rem; left: 0rem;;background-color: rgb(250, 250, 251); }
 #u-links-block-ab310613-2b92-4c58-bee0-c5616d705076:before{content: ""; display: none;}
-#u-links-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0{font-size: 0.16rem; width: 6.48rem; position: absolute; top: 0rem; left: 0rem;;}
+#u-links-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0{font-size: 0.16rem; height: 0rem; width: 7.2rem; position: absolute; top: 0rem; left: 0rem;;background-color: rgb(42, 39, 29);color: rgb(255, 255, 255);}
 
-#u69{background-color: rgba(0, 0, 0, 0);}
+#u69{background-color: rgba(0, 0, 0, 0);color: rgb(0, 0, 0);}
 html #u-5e33c19d-7a84-462c-86e8-015e7e9be4fa.colors-apply-bg-to-stack-bg { background-color: rgb(250, 250, 251); }
 html #u-6e5c540b-ee4a-4080-939b-955d9c681d68.colors-apply-bg-to-stack-bg { background-color: rgb(250, 250, 251); }
 html #u-d02eaec0-b3a8-4585-ba5a-89327b66d019.colors-apply-bg-to-stack-bg { background-color: rgb(250, 250, 251); }
 html #u-249bd5d9-34df-4bd0-ba8e-11b3e5388b73.colors-apply-bg-to-stack-bg { background-color: rgb(250, 250, 251); }
 html #u-links-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-bg-to-stack-bg { background-color: rgb(250, 250, 251); }
 
-html #u-links-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-bg-to-group-bg .group { background-color: rgb(250, 250, 251); }
+html #u-links-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-boxPop-to-group-bg .group { color: rgb(255, 255, 255); background-color: rgb(42, 39, 29); }
 html #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076.text-color, #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 .text-color { color: rgb(42, 39, 29); }
 
 html #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-bg-to-stack-bg { background-color: rgb(250, 250, 251); }
 
-html #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-bg-to-group-bg .group { background-color: rgb(250, 250, 251); }
+html #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-box-to-group-bg .group { background-color: rgb(240, 241, 245); }
 .layout-system { margin: 0px auto; position: relative; }
-html #layout-9742367046 .stack { display: inline-block; }
-html #layout-9035257587 .stack { display: inline-block; }
-html #layout-7410365007 .stack { display: inline-block; }
-html #layout-5860591696 .stack { display: inline-block; }
-html #layout-5777403640 .stack { display: inline-block; }
-html #layout-7326591468 .stack { display: inline-block; }
-#page-ab310613-2b92-4c58-bee0-c5616d705076{height: 22.229999999999997rem;}
+html #layout-841289777 .stack { display: inline-block; }
+html #layout-4052306714 .stack { display: inline-block; }
+html #layout-2752331797 .stack { display: inline-block; }
+html #layout-8429387817 .stack { display: inline-block; }
+html #layout-8402136184 .stack { display: inline-block; }
+html #layout-5310625559 .stack { display: inline-block; }
+#page-ab310613-2b92-4c58-bee0-c5616d705076{height: 18.63rem;}
 }
 @media (min-width: 721px) and (max-width: 1440px) {
 #page-ab310613-2b92-4c58-bee0-c5616d705076{width: 14.4rem;;background-color: rgba(0, 0, 0, 0);}
-#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 {height: 0.63rem; width: 13.68rem; position: absolute; top: 0.36rem; left: 0.36rem;;background-color: rgb(250, 250, 251); }
+#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 {height: 0.63rem; width: 14.4rem; position: absolute; top: 0rem; left: 0rem;;background-color: rgb(250, 250, 251); }
 #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076:before{content: ""; display: none;}
 #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 .group.navigation ol, #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 .group.navigation ul { list-style: none; }
 
 #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 .group.navigation ol li, #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 .group.navigation ul li { display: inline-block; white-space: nowrap; }
 
-#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0{font-size: 0.16rem; height: 0.63rem; width: 12.82rem; position: absolute; top: 0rem; left: 0.87rem;;}
-#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0-ul-0{width: 12.17rem; position: absolute; top: 0.22rem; left: 0.33rem;;background-color: rgba(0, 0, 0, 0);}
+#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0{font-size: 0.16rem; height: 0.63rem; width: 14.4rem; position: absolute; top: 0rem; left: 0rem;;background-color: rgb(240, 241, 245);}
+#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0-ul-0{width: 13.76rem; position: absolute; top: 0.22rem; left: 0.33rem;;background-color: rgba(0, 0, 0, 0);}
 #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0-ul-0-li-0-a-0{line-height: 0.1600rem;;color: rgb(42, 39, 29);font-weight: 500;}
-#u-249bd5d9-34df-4bd0-ba8e-11b3e5388b73 {height: 9rem; width: 7.2rem; position: absolute; top: 1.71rem; left: 3.6rem;; }
+#u-249bd5d9-34df-4bd0-ba8e-11b3e5388b73 {height: 9rem; width: 7.2rem; position: absolute; top: 0.63rem; left: 3.6rem;;background-color: rgb(250, 250, 251); }
 #u-249bd5d9-34df-4bd0-ba8e-11b3e5388b73:before{content: ""; display: none;}
-#u-d02eaec0-b3a8-4585-ba5a-89327b66d019 {height: 9rem; width: 7.2rem; position: absolute; top: 11.43rem; left: 3.6rem;; }
+#u-d02eaec0-b3a8-4585-ba5a-89327b66d019 {height: 9rem; width: 7.2rem; position: absolute; top: 9.63rem; left: 3.6rem;;background-color: rgb(250, 250, 251); }
 #u-d02eaec0-b3a8-4585-ba5a-89327b66d019:before{content: ""; display: none;}
-#u-6e5c540b-ee4a-4080-939b-955d9c681d68 {height: 9rem; width: 7.2rem; position: absolute; top: 21.15rem; left: 3.6rem;; }
+#u-6e5c540b-ee4a-4080-939b-955d9c681d68 {height: 9rem; width: 7.2rem; position: absolute; top: 18.630000000000003rem; left: 3.6rem;;background-color: rgb(250, 250, 251); }
 #u-6e5c540b-ee4a-4080-939b-955d9c681d68:before{content: ""; display: none;}
-#u-5e33c19d-7a84-462c-86e8-015e7e9be4fa {height: 9rem; width: 7.2rem; position: absolute; top: 30.869999999999997rem; left: 3.6rem;; }
+#u-5e33c19d-7a84-462c-86e8-015e7e9be4fa {height: 9rem; width: 7.2rem; position: absolute; top: 27.630000000000003rem; left: 3.6rem;;background-color: rgb(250, 250, 251); }
 #u-5e33c19d-7a84-462c-86e8-015e7e9be4fa:before{content: ""; display: none;}
-#u-links-block-ab310613-2b92-4c58-bee0-c5616d705076 {width: 13.68rem; position: absolute; top: 40.589999999999996rem; left: 0.36rem;;background-color: rgb(250, 250, 251); }
+#u-links-block-ab310613-2b92-4c58-bee0-c5616d705076 {height: 0rem; width: 14.4rem; position: absolute; top: 36.63rem; left: 0rem;;background-color: rgb(250, 250, 251); }
 #u-links-block-ab310613-2b92-4c58-bee0-c5616d705076:before{content: ""; display: none;}
-#u-links-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0{font-size: 0.16rem; width: 13.68rem; position: absolute; top: 0rem; left: 0rem;;}
+#u-links-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0{font-size: 0.16rem; height: 0rem; width: 14.4rem; position: absolute; top: 0rem; left: 0rem;;background-color: rgb(42, 39, 29);color: rgb(255, 255, 255);}
 
-#u69{background-color: rgba(0, 0, 0, 0);}
-html #u-5e33c19d-7a84-462c-86e8-015e7e9be4fa.colors-apply-none-to-stack-bg { background-color: transparent; }
-html #u-6e5c540b-ee4a-4080-939b-955d9c681d68.colors-apply-none-to-stack-bg { background-color: transparent; }
-html #u-d02eaec0-b3a8-4585-ba5a-89327b66d019.colors-apply-none-to-stack-bg { background-color: transparent; }
-html #u-249bd5d9-34df-4bd0-ba8e-11b3e5388b73.colors-apply-none-to-stack-bg { background-color: transparent; }
-html #u-links-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-bg-to-stack-bg { background-color: rgb(250, 250, 251); }
-
-html #u-links-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-bg-to-group-bg .group { background-color: rgb(250, 250, 251); }
-html #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076.text-color, #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 .text-color { color: rgb(42, 39, 29); }
-
-html #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-bg-to-stack-bg { background-color: rgb(250, 250, 251); }
-
-html #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-bg-to-group-bg .group { background-color: rgb(250, 250, 251); }
-.layout-system { margin: 0px auto; position: relative; }
-html #layout-5977827364 .stack { display: inline-block; }
-html #layout-2248953946 .stack { display: inline-block; }
-html #layout-5732644249 .stack { display: inline-block; }
-html #layout-8593027202 .stack { display: inline-block; }
-html #layout-5243349028 .stack { display: inline-block; }
-html #layout-6727852215 .stack { display: inline-block; }
-#page-ab310613-2b92-4c58-bee0-c5616d705076{height: 40.23rem;}
-}
-@media (min-width: 1441px) {
-#page-ab310613-2b92-4c58-bee0-c5616d705076{width: 14.41rem;;background-color: rgba(0, 0, 0, 0);}
-#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 {height: 0.64rem; width: 13.69rem; position: absolute; top: 0.37rem; left: 0.37rem;;background-color: rgb(250, 250, 251); }
-#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076:before{content: ""; display: none;}
-#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 .group.navigation ol, #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 .group.navigation ul { list-style: none; }
-
-#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 .group.navigation ol li, #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 .group.navigation ul li { display: inline-block; white-space: nowrap; }
-
-#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0{font-size: 0.17rem; height: 0.64rem; width: 12.83rem; position: absolute; top: 0rem; left: 0.87rem;;}
-#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0-ul-0{width: 12.18rem; position: absolute; top: 0.22rem; left: 0.33rem;;background-color: rgba(0, 0, 0, 0);}
-#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0-ul-0-li-0-a-0{line-height: 0.1700rem;;color: rgb(42, 39, 29);font-weight: 500;}
-#u-249bd5d9-34df-4bd0-ba8e-11b3e5388b73 {height: 9rem; width: 7.21rem; position: absolute; top: 1.73rem; left: 3.61rem;;background-color: rgb(250, 250, 251); }
-#u-249bd5d9-34df-4bd0-ba8e-11b3e5388b73:before{content: ""; display: none;}
-#u-d02eaec0-b3a8-4585-ba5a-89327b66d019 {height: 9rem; width: 7.21rem; position: absolute; top: 11.459999999999999rem; left: 3.61rem;;background-color: rgb(250, 250, 251); }
-#u-d02eaec0-b3a8-4585-ba5a-89327b66d019:before{content: ""; display: none;}
-#u-6e5c540b-ee4a-4080-939b-955d9c681d68 {height: 9rem; width: 7.21rem; position: absolute; top: 21.19rem; left: 3.61rem;;background-color: rgb(250, 250, 251); }
-#u-6e5c540b-ee4a-4080-939b-955d9c681d68:before{content: ""; display: none;}
-#u-5e33c19d-7a84-462c-86e8-015e7e9be4fa {height: 9rem; width: 7.21rem; position: absolute; top: 30.92rem; left: 3.61rem;;background-color: rgb(250, 250, 251); }
-#u-5e33c19d-7a84-462c-86e8-015e7e9be4fa:before{content: ""; display: none;}
-#u-links-block-ab310613-2b92-4c58-bee0-c5616d705076 {width: 13.69rem; position: absolute; top: 40.65rem; left: 0.37rem;;background-color: rgb(250, 250, 251); }
-#u-links-block-ab310613-2b92-4c58-bee0-c5616d705076:before{content: ""; display: none;}
-#u-links-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0{font-size: 0.17rem; width: 13.69rem; position: absolute; top: 0rem; left: 0rem;;}
-
-#u69{background-color: rgba(0, 0, 0, 0);}
+#u69{background-color: rgba(0, 0, 0, 0);color: rgb(0, 0, 0);}
 html #u-5e33c19d-7a84-462c-86e8-015e7e9be4fa.colors-apply-bg-to-stack-bg { background-color: rgb(250, 250, 251); }
 html #u-6e5c540b-ee4a-4080-939b-955d9c681d68.colors-apply-bg-to-stack-bg { background-color: rgb(250, 250, 251); }
 html #u-d02eaec0-b3a8-4585-ba5a-89327b66d019.colors-apply-bg-to-stack-bg { background-color: rgb(250, 250, 251); }
 html #u-249bd5d9-34df-4bd0-ba8e-11b3e5388b73.colors-apply-bg-to-stack-bg { background-color: rgb(250, 250, 251); }
 html #u-links-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-bg-to-stack-bg { background-color: rgb(250, 250, 251); }
 
-html #u-links-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-bg-to-group-bg .group { background-color: rgb(250, 250, 251); }
+html #u-links-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-boxPop-to-group-bg .group { color: rgb(255, 255, 255); background-color: rgb(42, 39, 29); }
 html #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076.text-color, #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 .text-color { color: rgb(42, 39, 29); }
 
 html #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-bg-to-stack-bg { background-color: rgb(250, 250, 251); }
 
-html #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-bg-to-group-bg .group { background-color: rgb(250, 250, 251); }
+html #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-box-to-group-bg .group { background-color: rgb(240, 241, 245); }
 .layout-system { margin: 0px auto; position: relative; }
-html #layout-8598351127 .stack { display: inline-block; }
-html #layout-7084408502 .stack { display: inline-block; }
-html #layout-1441619077 .stack { display: inline-block; }
-html #layout-7035373731 .stack { display: inline-block; }
-html #layout-6375825493 .stack { display: inline-block; }
-html #layout-2636647056 .stack { display: inline-block; }
-#page-ab310613-2b92-4c58-bee0-c5616d705076{height: 40.28rem;}
+html #layout-631933258 .stack { display: inline-block; }
+html #layout-7770346314 .stack { display: inline-block; }
+html #layout-1526008853 .stack { display: inline-block; }
+html #layout-5139674297 .stack { display: inline-block; }
+html #layout-5457931568 .stack { display: inline-block; }
+html #layout-8224370190 .stack { display: inline-block; }
+#page-ab310613-2b92-4c58-bee0-c5616d705076{height: 36.63rem;}
+}
+@media (min-width: 1441px) {
+#page-ab310613-2b92-4c58-bee0-c5616d705076{width: 14.41rem;;background-color: rgba(0, 0, 0, 0);}
+#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 {height: 0.64rem; width: 14.41rem; position: absolute; top: 0rem; left: 0rem;;background-color: rgb(250, 250, 251); }
+#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076:before{content: ""; display: none;}
+#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 .group.navigation ol, #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 .group.navigation ul { list-style: none; }
+
+#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 .group.navigation ol li, #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 .group.navigation ul li { display: inline-block; white-space: nowrap; }
+
+#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0{font-size: 0.17rem; height: 0.64rem; width: 14.41rem; position: absolute; top: 0rem; left: 0rem;;background-color: rgb(240, 241, 245);}
+#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0-ul-0{width: 13.77rem; position: absolute; top: 0.22rem; left: 0.33rem;;background-color: rgba(0, 0, 0, 0);}
+#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0-ul-0-li-0-a-0{line-height: 0.1700rem;;color: rgb(42, 39, 29);font-weight: 500;}
+#u-249bd5d9-34df-4bd0-ba8e-11b3e5388b73 {height: 9rem; width: 7.21rem; position: absolute; top: 0.64rem; left: 3.61rem;;background-color: rgb(250, 250, 251); }
+#u-249bd5d9-34df-4bd0-ba8e-11b3e5388b73:before{content: ""; display: none;}
+#u-d02eaec0-b3a8-4585-ba5a-89327b66d019 {height: 9rem; width: 7.21rem; position: absolute; top: 9.64rem; left: 3.61rem;;background-color: rgb(250, 250, 251); }
+#u-d02eaec0-b3a8-4585-ba5a-89327b66d019:before{content: ""; display: none;}
+#u-6e5c540b-ee4a-4080-939b-955d9c681d68 {height: 9rem; width: 7.21rem; position: absolute; top: 18.64rem; left: 3.61rem;;background-color: rgb(250, 250, 251); }
+#u-6e5c540b-ee4a-4080-939b-955d9c681d68:before{content: ""; display: none;}
+#u-5e33c19d-7a84-462c-86e8-015e7e9be4fa {height: 9rem; width: 7.21rem; position: absolute; top: 27.64rem; left: 3.61rem;;background-color: rgb(250, 250, 251); }
+#u-5e33c19d-7a84-462c-86e8-015e7e9be4fa:before{content: ""; display: none;}
+#u-links-block-ab310613-2b92-4c58-bee0-c5616d705076 {height: 0rem; width: 14.41rem; position: absolute; top: 36.64rem; left: 0rem;;background-color: rgb(250, 250, 251); }
+#u-links-block-ab310613-2b92-4c58-bee0-c5616d705076:before{content: ""; display: none;}
+#u-links-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0{font-size: 0.17rem; height: 0rem; width: 14.41rem; position: absolute; top: 0rem; left: 0rem;;background-color: rgb(42, 39, 29);color: rgb(255, 255, 255);}
+
+#u69{background-color: rgba(0, 0, 0, 0);color: rgb(0, 0, 0);}
+html #u-5e33c19d-7a84-462c-86e8-015e7e9be4fa.colors-apply-bg-to-stack-bg { background-color: rgb(250, 250, 251); }
+html #u-6e5c540b-ee4a-4080-939b-955d9c681d68.colors-apply-bg-to-stack-bg { background-color: rgb(250, 250, 251); }
+html #u-d02eaec0-b3a8-4585-ba5a-89327b66d019.colors-apply-bg-to-stack-bg { background-color: rgb(250, 250, 251); }
+html #u-249bd5d9-34df-4bd0-ba8e-11b3e5388b73.colors-apply-bg-to-stack-bg { background-color: rgb(250, 250, 251); }
+html #u-links-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-bg-to-stack-bg { background-color: rgb(250, 250, 251); }
+
+html #u-links-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-boxPop-to-group-bg .group { color: rgb(255, 255, 255); background-color: rgb(42, 39, 29); }
+html #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076.text-color, #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 .text-color { color: rgb(42, 39, 29); }
+
+html #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-bg-to-stack-bg { background-color: rgb(250, 250, 251); }
+
+html #u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-box-to-group-bg .group { background-color: rgb(240, 241, 245); }
+.layout-system { margin: 0px auto; position: relative; }
+html #layout-8992877060 .stack { display: inline-block; }
+html #layout-8225732692 .stack { display: inline-block; }
+html #layout-3691266316 .stack { display: inline-block; }
+html #layout-6594041811 .stack { display: inline-block; }
+html #layout-9482988754 .stack { display: inline-block; }
+html #layout-8025724668 .stack { display: inline-block; }
+#page-ab310613-2b92-4c58-bee0-c5616d705076{height: 36.64rem;}
 }
 </style><script src="//ajax.googleapis.com/ajax/libs/webfont/1.5.10/webfont.js"></script><script id="web-font-loader">WebFont.load({"google":{"families":["Merriweather:300,900","Roboto:500,500italic,900,900italic"]}});</script><style type="text/css">html {font-family: 'Roboto';font-weight: 500;}
  .layout-system .hero {font-family: 'Merriweather';font-weight: 900;}
@@ -243,4 +282,232 @@ html #layout-2636647056 .stack { display: inline-block; }
  a {font-family: 'Roboto';font-weight: 500;}
  .attribution {font-family: 'Roboto';font-weight: 500;text-transform: uppercase;letter-spacing: .03em;}
  .layout-system .quote {font-family: 'Merriweather';font-weight: 300;font-style: italic;}
- .layout-system .title {text-transform: uppercase;letter-spacing: .03em;}</style><style type="text/css" rel="stylesheet">body { background-color: hsl(240, 17%, 98%)}</style><script src="//cdnjs.cloudflare.com/ajax/libs/picturefill/2.3.1/picturefill.min.js"></script></head><body class="global-colors base-light-color-1 base" id="bodybase"><script src="//cdn.thegrid.io/design-systems/taylor/0.2.46/src/assets/gss-init.js" id="bodybase-script-0"></script><div class="layout-system user simple w-assets sections" id="page-ab310613-2b92-4c58-bee0-c5616d705076"><section class="export-linebreaks without_filter colors-user colors-apply-textPop-to-hover colors-apply-bg-to-aside colors-apply-none-to-text-decoration colors-apply-bg-to-group-bg colors-apply-bg-to-stack-bg colors-bg-to-text-contrast-natural colors-global collapsed h_uninverted horizontal narrow navigation navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 allow-crop allow-filter allow-overlay stack" id="u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076"><div class="group navigation" id="u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0"><ul id="u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0-ul-0"><li id="u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0-ul-0-li-0"><a class="text-color" href="../" rel="home" id="u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0-ul-0-li-0-a-0">Wandering Monster</a></li></ul></div><style type="text/css" rel="stylesheet" id="u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-style-1">#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-textPop-to-hover a:hover { color: hsl(46, 19%, 10%); }</style></section><section class="export-linebreaks without_filter colors-user colors-apply-textPop-to-hover colors-apply-bg-to-aside colors-apply-none-to-text-decoration colors-apply-bg-to-group-bg colors-apply-none-to-stack-bg colors-bg-to-text-contrast-natural colors-global collapsed h_uninverted horizontal half cover-only 249bd5d9-34df-4bd0-ba8e-11b3e5388b73 allow-crop allow-filter allow-overlay stack" id="u-249bd5d9-34df-4bd0-ba8e-11b3e5388b73"><style type="text/css" rel="stylesheet" id="u-249bd5d9-34df-4bd0-ba8e-11b3e5388b73-style-1">#u-249bd5d9-34df-4bd0-ba8e-11b3e5388b73.colors-apply-textPop-to-hover a:hover { color: hsl(46, 19%, 10%); }</style></section><section class="export-linebreaks without_filter colors-user colors-apply-textPop-to-hover colors-apply-bg-to-aside colors-apply-none-to-text-decoration colors-apply-bg-to-group-bg colors-apply-none-to-stack-bg colors-bg-to-text-contrast-natural colors-global collapsed h_uninverted horizontal half cover-only d02eaec0-b3a8-4585-ba5a-89327b66d019 allow-crop allow-filter allow-overlay stack" id="u-d02eaec0-b3a8-4585-ba5a-89327b66d019"><style type="text/css" rel="stylesheet" id="u-d02eaec0-b3a8-4585-ba5a-89327b66d019-style-1">#u-d02eaec0-b3a8-4585-ba5a-89327b66d019.colors-apply-textPop-to-hover a:hover { color: hsl(46, 19%, 10%); }</style></section><section class="export-linebreaks without_filter colors-user colors-apply-textPop-to-hover colors-apply-bg-to-aside colors-apply-none-to-text-decoration colors-apply-bg-to-group-bg colors-apply-none-to-stack-bg colors-bg-to-text-contrast-natural colors-global collapsed h_uninverted horizontal half cover-only 6e5c540b-ee4a-4080-939b-955d9c681d68 allow-crop allow-filter allow-overlay stack" id="u-6e5c540b-ee4a-4080-939b-955d9c681d68"><style type="text/css" rel="stylesheet" id="u-6e5c540b-ee4a-4080-939b-955d9c681d68-style-1">#u-6e5c540b-ee4a-4080-939b-955d9c681d68.colors-apply-textPop-to-hover a:hover { color: hsl(46, 19%, 10%); }</style></section><section class="export-linebreaks without_filter colors-user colors-apply-textPop-to-hover colors-apply-bg-to-aside colors-apply-none-to-text-decoration colors-apply-bg-to-group-bg colors-apply-none-to-stack-bg colors-bg-to-text-contrast-natural colors-global collapsed h_uninverted horizontal half cover-only 5e33c19d-7a84-462c-86e8-015e7e9be4fa allow-crop allow-filter allow-overlay stack" id="u-5e33c19d-7a84-462c-86e8-015e7e9be4fa"><style type="text/css" rel="stylesheet" id="u-5e33c19d-7a84-462c-86e8-015e7e9be4fa-style-1">#u-5e33c19d-7a84-462c-86e8-015e7e9be4fa.colors-apply-textPop-to-hover a:hover { color: hsl(46, 19%, 10%); }</style></section><section class="export-linebreaks without_filter colors-user colors-apply-textPop-to-hover colors-apply-bg-to-aside colors-apply-none-to-text-decoration colors-apply-bg-to-group-bg colors-apply-bg-to-stack-bg colors-bg-to-text-contrast-natural colors-global collapsed h_uninverted horizontal narrow links links-block-ab310613-2b92-4c58-bee0-c5616d705076 allow-crop allow-filter allow-overlay stack" id="u-links-block-ab310613-2b92-4c58-bee0-c5616d705076"><div class="group links" id="u-links-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0"></div><style type="text/css" rel="stylesheet" id="u-links-block-ab310613-2b92-4c58-bee0-c5616d705076-style-1">#u-links-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-textPop-to-hover a:hover { color: hsl(46, 19%, 10%); }</style></section></div><div id="u69"></div></body></html>
+ .layout-system .title {text-transform: uppercase;letter-spacing: .03em;}</style><style type="text/css" rel="stylesheet">body { background-color: hsl(240, 17%, 98%)}</style><script src="//cdnjs.cloudflare.com/ajax/libs/picturefill/2.3.1/picturefill.min.js"></script></head><body class="global-colors base-light-color-1 base" id="bodybase"><script src="//cdn.thegrid.io/design-systems/taylor/0.2.49/src/assets/gss-init.js" id="bodybase-script-0"></script><div class="layout-system user simple w-assets compose-sections compose-nav" id="page-ab310613-2b92-4c58-bee0-c5616d705076"><section class="export-linebreaks without_filter colors-user colors-global colors-apply-textPop-to-hover colors-apply-bg-to-aside colors-apply-none-to-text-decoration colors-apply-box-to-group-bg colors-apply-bg-to-stack-bg colors-bg-to-text-contrast-natural collapsed h_uninverted horizontal narrow navigation navigation-block-ab310613-2b92-4c58-bee0-c5616d705076 allow-crop allow-filter allow-overlay stack" id="u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076"><div class="group navigation" id="u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0"><ul id="u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0-ul-0"><li id="u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0-ul-0-li-0"><a class="text-color" href="../" rel="home" id="u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0-ul-0-li-0-a-0">Wandering Monster</a></li></ul></div><style type="text/css" rel="stylesheet" id="u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076-style-1">#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-textPop-to-hover a:hover { color: hsl(46, 19%, 10%); }
+#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-bg-to-aside .aside:hover { background-color: transparent; color: hsl(240, 17%, 98%); }
+#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-box-to-aside .aside:hover { background-color: transparent; color: hsl(228, 20%, 95%); }
+#u-navigation-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-boxPop-to-aside .aside:hover { background-color: transparent; color: hsl(46, 19%, 14%); }
+@-webkit-keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}
+
+@-moz-keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}
+
+@-o-keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}
+
+@keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}</style></section><section class="export-linebreaks without_filter colors-user colors-global colors-apply-none-to-hover colors-apply-bg-to-aside colors-apply-none-to-text-decoration colors-apply-box-to-group-bg colors-apply-bg-to-stack-bg colors-bg-to-text-contrast-natural collapsed h_uninverted horizontal half cover-only 249bd5d9-34df-4bd0-ba8e-11b3e5388b73 allow-crop allow-filter allow-overlay stack" id="u-249bd5d9-34df-4bd0-ba8e-11b3e5388b73"><style type="text/css" rel="stylesheet" id="u-249bd5d9-34df-4bd0-ba8e-11b3e5388b73-style-1">#u-249bd5d9-34df-4bd0-ba8e-11b3e5388b73.colors-apply-textPop-to-hover a:hover { color: hsl(46, 19%, 10%); }
+#u-249bd5d9-34df-4bd0-ba8e-11b3e5388b73.colors-apply-bg-to-aside .aside:hover { background-color: transparent; color: hsl(240, 17%, 98%); }
+#u-249bd5d9-34df-4bd0-ba8e-11b3e5388b73.colors-apply-box-to-aside .aside:hover { background-color: transparent; color: hsl(228, 20%, 95%); }
+#u-249bd5d9-34df-4bd0-ba8e-11b3e5388b73.colors-apply-boxPop-to-aside .aside:hover { background-color: transparent; color: hsl(46, 19%, 14%); }
+@-webkit-keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}
+
+@-moz-keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}
+
+@-o-keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}
+
+@keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}</style></section><section class="export-linebreaks without_filter colors-user colors-global colors-apply-none-to-hover colors-apply-bg-to-aside colors-apply-none-to-text-decoration colors-apply-box-to-group-bg colors-apply-bg-to-stack-bg colors-bg-to-text-contrast-natural collapsed h_uninverted horizontal half cover-only d02eaec0-b3a8-4585-ba5a-89327b66d019 allow-crop allow-filter allow-overlay stack" id="u-d02eaec0-b3a8-4585-ba5a-89327b66d019"><style type="text/css" rel="stylesheet" id="u-d02eaec0-b3a8-4585-ba5a-89327b66d019-style-1">#u-d02eaec0-b3a8-4585-ba5a-89327b66d019.colors-apply-textPop-to-hover a:hover { color: hsl(46, 19%, 10%); }
+#u-d02eaec0-b3a8-4585-ba5a-89327b66d019.colors-apply-bg-to-aside .aside:hover { background-color: transparent; color: hsl(240, 17%, 98%); }
+#u-d02eaec0-b3a8-4585-ba5a-89327b66d019.colors-apply-box-to-aside .aside:hover { background-color: transparent; color: hsl(228, 20%, 95%); }
+#u-d02eaec0-b3a8-4585-ba5a-89327b66d019.colors-apply-boxPop-to-aside .aside:hover { background-color: transparent; color: hsl(46, 19%, 14%); }
+@-webkit-keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}
+
+@-moz-keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}
+
+@-o-keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}
+
+@keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}</style></section><section class="export-linebreaks without_filter colors-user colors-global colors-apply-none-to-hover colors-apply-bg-to-aside colors-apply-none-to-text-decoration colors-apply-box-to-group-bg colors-apply-bg-to-stack-bg colors-bg-to-text-contrast-natural collapsed h_uninverted horizontal half cover-only 6e5c540b-ee4a-4080-939b-955d9c681d68 allow-crop allow-filter allow-overlay stack" id="u-6e5c540b-ee4a-4080-939b-955d9c681d68"><style type="text/css" rel="stylesheet" id="u-6e5c540b-ee4a-4080-939b-955d9c681d68-style-1">#u-6e5c540b-ee4a-4080-939b-955d9c681d68.colors-apply-textPop-to-hover a:hover { color: hsl(46, 19%, 10%); }
+#u-6e5c540b-ee4a-4080-939b-955d9c681d68.colors-apply-bg-to-aside .aside:hover { background-color: transparent; color: hsl(240, 17%, 98%); }
+#u-6e5c540b-ee4a-4080-939b-955d9c681d68.colors-apply-box-to-aside .aside:hover { background-color: transparent; color: hsl(228, 20%, 95%); }
+#u-6e5c540b-ee4a-4080-939b-955d9c681d68.colors-apply-boxPop-to-aside .aside:hover { background-color: transparent; color: hsl(46, 19%, 14%); }
+@-webkit-keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}
+
+@-moz-keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}
+
+@-o-keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}
+
+@keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}</style></section><section class="export-linebreaks without_filter colors-user colors-global colors-apply-none-to-hover colors-apply-bg-to-aside colors-apply-none-to-text-decoration colors-apply-box-to-group-bg colors-apply-bg-to-stack-bg colors-bg-to-text-contrast-natural collapsed h_uninverted horizontal half cover-only 5e33c19d-7a84-462c-86e8-015e7e9be4fa allow-crop allow-filter allow-overlay stack" id="u-5e33c19d-7a84-462c-86e8-015e7e9be4fa"><style type="text/css" rel="stylesheet" id="u-5e33c19d-7a84-462c-86e8-015e7e9be4fa-style-1">#u-5e33c19d-7a84-462c-86e8-015e7e9be4fa.colors-apply-textPop-to-hover a:hover { color: hsl(46, 19%, 10%); }
+#u-5e33c19d-7a84-462c-86e8-015e7e9be4fa.colors-apply-bg-to-aside .aside:hover { background-color: transparent; color: hsl(240, 17%, 98%); }
+#u-5e33c19d-7a84-462c-86e8-015e7e9be4fa.colors-apply-box-to-aside .aside:hover { background-color: transparent; color: hsl(228, 20%, 95%); }
+#u-5e33c19d-7a84-462c-86e8-015e7e9be4fa.colors-apply-boxPop-to-aside .aside:hover { background-color: transparent; color: hsl(46, 19%, 14%); }
+@-webkit-keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}
+
+@-moz-keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}
+
+@-o-keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}
+
+@keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}</style></section><section class="export-linebreaks without_filter colors-user colors-global colors-apply-textPop-to-hover colors-apply-bg-to-aside colors-apply-none-to-text-decoration colors-apply-boxPop-to-group-bg colors-apply-bg-to-stack-bg colors-bg-to-text-contrast-natural collapsed h_uninverted horizontal narrow links links-block-ab310613-2b92-4c58-bee0-c5616d705076 allow-crop allow-filter allow-overlay stack" id="u-links-block-ab310613-2b92-4c58-bee0-c5616d705076"><div class="group links" id="u-links-block-ab310613-2b92-4c58-bee0-c5616d705076-g-0"></div><style type="text/css" rel="stylesheet" id="u-links-block-ab310613-2b92-4c58-bee0-c5616d705076-style-1">#u-links-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-textPop-to-hover a:hover { color: hsl(46, 19%, 10%); }
+#u-links-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-bg-to-aside .aside:hover { background-color: transparent; color: hsl(240, 17%, 98%); }
+#u-links-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-box-to-aside .aside:hover { background-color: transparent; color: hsl(228, 20%, 95%); }
+#u-links-block-ab310613-2b92-4c58-bee0-c5616d705076.colors-apply-boxPop-to-aside .aside:hover { background-color: transparent; color: hsl(46, 19%, 14%); }
+@-webkit-keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}
+
+@-moz-keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}
+
+@-o-keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}
+
+@keyframes loading {
+ 0% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="#333"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 20% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 40% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="#333" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="gray" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 60% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g fill="gray"><circle cx="54" cy="4" r="4"></circle><circle cx="29" cy="4" r="4"></circle><circle cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 80% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="gray" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+ 100% { background-image: url('data:image/svg+xml;utf8, <svg width="58" height="8" viewBox="0 0 58 8" xmlns="http://www.w3.org/2000/svg"><title>loading</title><g fill="none" fill-rule="evenodd"><path fill="none" d="M-11-4h80v16h-80z"></path><g><circle fill="gray" cx="54" cy="4" r="4"></circle><circle fill="#333" cx="29" cy="4" r="4"></circle><circle fill="#333" cx="4" cy="4" r="4"></circle></g></g></svg> '); }
+}</style></section></div><div id="u69"></div><script src="//cdn.thegrid.io/design-systems/taylor/0.2.49/src/assets/cta.js" id="bodybase-script-1"></script></body></html>
