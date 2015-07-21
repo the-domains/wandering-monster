@@ -1,5 +1,5 @@
 ---
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
@@ -7,16 +7,16 @@ description: 'A long weekend at Prinz Luitpold Bad with the company was awesome.
 title: The Allgäau alps
 tags:
   - ''
+datePublished: '2015-07-21T08:37:40.126Z'
+dateModified: '2015-07-21T10:08:59.933Z'
+sourcePath: _posts/2015-07-21-the-allgaau-alps.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-datePublished: '2015-07-21T08:37:40.126Z'
-dateModified: '2015-07-21T08:37:40.126Z'
-sourcePath: _posts/2015-07-21-the-allgaau-alps.md
-published: true
 url: the-allgaau-alps/index.html
 _type: Article
 
