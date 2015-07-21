@@ -11,7 +11,7 @@ tags:
   - clothes
   - gear
 datePublished: '2015-06-25T13:12:07.763Z'
-dateModified: '2015-07-01T20:25:31.070Z'
+dateModified: '2015-07-21T08:42:45.489Z'
 sourcePath: _posts/2015-06-25-packing-for-an-adventure.md
 published: true
 authors: []
