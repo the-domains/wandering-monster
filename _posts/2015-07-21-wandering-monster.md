@@ -1,10 +1,10 @@
 ---
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-dateModified: '2015-07-23T11:19:31.566Z'
+dateModified: '2015-07-23T11:20:28.112Z'
 datePublished: '2015-07-21T10:31:38.713Z'
 title: Wandering monster
 sourcePath: _posts/2015-07-21-wandering-monster.md
