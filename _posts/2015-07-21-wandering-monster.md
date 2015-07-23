@@ -4,7 +4,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-dateModified: '2015-07-23T11:19:05.173Z'
+dateModified: '2015-07-23T11:19:31.566Z'
 datePublished: '2015-07-21T10:31:38.713Z'
 title: Wandering monster
 sourcePath: _posts/2015-07-21-wandering-monster.md
@@ -17,7 +17,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: MediaObject
+url: wandering-monster/index.html
+_type: Article
 
 ---
 Thus far I, the wandering monster, have traveled far and wide without much of a thought. It all changed on one trip where not thinking led to overpacking. Since then going for a trip has also been an exploration to what to pack and how to do it.
