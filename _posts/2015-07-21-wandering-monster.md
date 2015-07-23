@@ -1,15 +1,23 @@
 ---
-authors: []
-dateModified: '2015-07-23T11:11:52.181Z'
-datePublished: '2015-07-21T10:31:38.713Z'
-keywords: []
-publisher: {}
-title: Wandering monster
+isBasedOnUrl: null
+inLanguage: null
 starred: true
+keywords: []
+description: ''
+dateModified: '2015-07-23T11:19:05.173Z'
+datePublished: '2015-07-21T10:31:38.713Z'
+title: Wandering monster
 sourcePath: _posts/2015-07-21-wandering-monster.md
 published: true
-url: wandering-monster/index.html
-_type: Article
+tags:
+  - ''
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+_type: MediaObject
 
 ---
 Thus far I, the wandering monster, have traveled far and wide without much of a thought. It all changed on one trip where not thinking led to overpacking. Since then going for a trip has also been an exploration to what to pack and how to do it.
