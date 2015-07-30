@@ -1,22 +1,22 @@
 ---
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
 title: Wandering Monster
 tags:
   - about
+datePublished: '2015-07-30T11:34:01.074Z'
+dateModified: '2015-07-30T11:34:17.407Z'
+sourcePath: _posts/2015-07-30-wandering-monster.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-datePublished: '2015-07-30T11:34:01.074Z'
-dateModified: '2015-07-30T11:34:01.074Z'
-sourcePath: _posts/2015-07-30-wandering-monster.md
-published: true
 url: wandering-monster/index.html
 _type: Article
 
