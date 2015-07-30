@@ -8,7 +8,7 @@ title: Wandering Monster
 tags:
   - about
 datePublished: '2015-07-30T11:34:01.074Z'
-dateModified: '2015-07-30T11:36:57.537Z'
+dateModified: '2015-07-30T11:38:16.042Z'
 sourcePath: _posts/2015-07-30-wandering-monster.md
 published: true
 authors: []
