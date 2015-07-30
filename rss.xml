@@ -3,14 +3,14 @@
     <channel>
         <title><![CDATA[Untitled RSS Feed]]></title>
         <description><![CDATA[Untitled RSS Feed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://wanderingmonster.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jul 2015 08:56:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 30 Jul 2015 09:18:20 GMT</lastBuildDate>
+        <atom:link href="http://wanderingmonster.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Me]]></title>
-            <description><![CDATA[<article><h1>Me</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9c8ddb6-a34e-4d9f-b4a1-a17210689dca.jpg"></article>]]></description>
-            <link>undefinedme/index.html</link>
+            <description><![CDATA[<article><h1>Me</h1><p>Thus far I, the wandering monster, have traveled far and wide without much of a thought. It all changed on one trip where not thinking led to overpacking. Since then going for a trip has also been an exploration to what to pack and how to do it.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9c8ddb6-a34e-4d9f-b4a1-a17210689dca.jpg"></article>]]></description>
+            <link>http://wanderingmonster.net/me/index.html</link>
             <guid isPermaLink="false">c9ed97fd-6509-41ff-9333-e7ee98808ec5</guid>
             <pubDate>Thu, 30 Jul 2015 08:55:56 GMT</pubDate>
         </item>
