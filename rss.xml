@@ -5,7 +5,7 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>http://wanderingmonster.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jul 2015 11:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2015 11:58:04 GMT</lastBuildDate>
         <atom:link href="http://wanderingmonster.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wandering Monster]]></title>
@@ -13,6 +13,13 @@
             <link>http://wanderingmonster.net/wandering-monster/index.html</link>
             <guid isPermaLink="false">1012abfb-c4b2-4f49-986b-3f3c7dbfbd30</guid>
             <pubDate>Thu, 30 Jul 2015 11:34:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Binz experience]]></title>
+            <description><![CDATA[<article><h1>The Binz experience</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97f95029-73c1-457a-a4dc-3a4d5e629b6e.jpg"></article>]]></description>
+            <link>http://wanderingmonster.net/the-binz-experience/index.html</link>
+            <guid isPermaLink="false">37d646fe-de4a-4083-b613-7fbed73d57c4</guid>
+            <pubDate>Thu, 18 Jun 2015 04:59:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[My current packing list.]]></title>
