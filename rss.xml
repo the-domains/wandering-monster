@@ -3,10 +3,17 @@
     <channel>
         <title><![CDATA[Untitled RSS Feed]]></title>
         <description><![CDATA[Untitled RSS Feed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://wanderingmonster.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jul 2015 11:03:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 30 Jul 2015 11:34:26 GMT</lastBuildDate>
+        <atom:link href="http://wanderingmonster.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wandering Monster]]></title>
+            <description><![CDATA[<article><h1>Wandering Monster</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/154ce470-dcbf-46d7-b005-858f0e08b0e5.jpg"></article>]]></description>
+            <link>http://wanderingmonster.net/wandering-monster/index.html</link>
+            <guid isPermaLink="false">1012abfb-c4b2-4f49-986b-3f3c7dbfbd30</guid>
+            <pubDate>Thu, 30 Jul 2015 11:34:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My current packing list.]]></title>
             <description><![CDATA[<article><h1>My current packing list.</h1><p>The process of packing made easier by having a list online. With LighterPackI can easily keep in track how much everything weights and am I getting any grams away with upgrading existing items.</p></article>]]></description>
