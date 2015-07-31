@@ -1,5 +1,5 @@
 ---
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
@@ -8,7 +8,7 @@ title: The Allgäau alps
 tags:
   - ''
 datePublished: '2015-07-21T08:37:40.126Z'
-dateModified: '2015-07-21T10:31:38.494Z'
+dateModified: '2015-07-31T08:33:12.440Z'
 sourcePath: _posts/2015-07-21-the-allgaau-alps.md
 published: true
 authors: []
