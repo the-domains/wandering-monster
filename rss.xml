@@ -5,7 +5,7 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>http://wanderingmonster.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jul 2015 12:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2015 08:35:20 GMT</lastBuildDate>
         <atom:link href="http://wanderingmonster.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wandering Monster]]></title>
@@ -13,6 +13,13 @@
             <link>http://wanderingmonster.net/wandering-monster/index.html</link>
             <guid isPermaLink="false">1012abfb-c4b2-4f49-986b-3f3c7dbfbd30</guid>
             <pubDate>Thu, 30 Jul 2015 11:34:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Allgäau alps]]></title>
+            <description><![CDATA[<article><h1>The Allgäau alps</h1><p>Vilsalpsee</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc316a99-9a08-4ca7-b1c2-60184c41db60.jpg"></article>]]></description>
+            <link>http://wanderingmonster.net/the-allgaau-alps/index.html</link>
+            <guid isPermaLink="false">477ce49d-0824-4994-ae09-46a022d538df</guid>
+            <pubDate>Tue, 21 Jul 2015 08:37:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Binz experience]]></title>
