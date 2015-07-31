@@ -8,7 +8,7 @@ title: The Allgäau alps
 tags:
   - ''
 datePublished: '2015-07-21T08:37:40.126Z'
-dateModified: '2015-07-31T08:33:12.440Z'
+dateModified: '2015-07-31T09:10:23.672Z'
 sourcePath: _posts/2015-07-21-the-allgaau-alps.md
 published: true
 authors: []
@@ -21,8 +21,7 @@ url: the-allgaau-alps/index.html
 _type: Article
 
 ---
-The image uploading line
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40b1f3e4-c550-45e6-95d4-0c4dd7ea670b.jpg)
+For a glorious and brutally hot 4 days our company packed itself to a plane, flew to Allgäau to stay at hotel Prinz-Luitpold-Bad, a luxurious four star wellness hotel in the Allgäau alps. The idea behind the trip was to relax, do some hiking and enjoy good food. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40b1f3e4-c550-45e6-95d4-0c4dd7ea670b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb76c1dd-840c-42fa-b26a-526e15e25f61.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fa1224d-64d5-4f45-858f-0e97a8c28cb4.gif)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af546b74-fd19-4f22-9396-3ca407b162de.jpg)
