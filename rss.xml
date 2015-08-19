@@ -5,7 +5,7 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>http://wanderingmonster.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 12 Aug 2015 13:58:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2015 05:16:03 GMT</lastBuildDate>
         <atom:link href="http://wanderingmonster.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wandering Monster]]></title>
@@ -13,6 +13,12 @@
             <link>http://wanderingmonster.net/wandering-monster/index.html</link>
             <guid isPermaLink="false">1012abfb-c4b2-4f49-986b-3f3c7dbfbd30</guid>
             <pubDate>Thu, 30 Jul 2015 11:34:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[back online!]]></title>
+            <description><![CDATA[<article><h1>back online!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4f26200-3fc9-47b9-a300-de3e94754cc0.jpg"></article>]]></description>
+            <guid isPermaLink="false">156a9c6e-1960-41d1-87c8-d1430230b738</guid>
+            <pubDate>Sun, 16 Aug 2015 21:01:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Main Page - Camp_2015_Wiki]]></title>
