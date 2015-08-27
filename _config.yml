@@ -1,7 +1,6 @@
-name: null
+name: Wandering monster
 favicon: null
 layout_spectrum: 0.5203
-typography_spectrum: 0.5
 cta:
   domain: null
   bucket: null
@@ -16,12 +15,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#292929'
-    - '#141414'
-    - '#000000'
-    - '#0c0c0c'
-    - '#303030'
-  brandStrength: 0.4375
+    - '#090909'
+    - '#2d3236'
+    - '#5d666e'
+    - '#8a9dab'
+    - '#adc0cf'
+  brandStrength: 0.5625
   lightness: 0
   saturation: 0
   rhythmicContrast: 0.25
