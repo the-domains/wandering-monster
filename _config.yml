@@ -1,6 +1,7 @@
 name: Wandering monster
 favicon: null
 layout_spectrum: 0.36793
+typography_spectrum: 0.57967
 cta:
   domain: null
   bucket: null
