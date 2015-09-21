@@ -7,19 +7,19 @@ description: a 5 day trip to Finland with my new backpack
 author: []
 related: []
 app_links: []
-datePublished: '2015-09-21T08:42:18.138Z'
+datePublished: '2015-09-21T08:46:56.303Z'
 title: 'Finland, finland'
-dateModified: '2015-09-21T08:42:07.444Z'
+dateModified: '2015-09-21T08:46:43.271Z'
 tags:
   - ''
+sourcePath: _posts/2015-09-21-finland-finland.md
+published: true
 authors: []
 publisher:
   name: Lighterpack
   domain: lighterpack.com
   url: 'http://lighterpack.com'
   favicon: 'http://lighterpack.com/favicon.png'
-sourcePath: _posts/2015-09-21-finland-finland.md
-published: true
 url: finland-finland/index.html
 _type: Article
 _context: 'http://schema.org'
@@ -31,7 +31,7 @@ The backpack proved to be a good fit for me. The GR0 is comfortable to carry. Th
 
 The size restriction of the backpack means also a weight restriction. The backpack is reasonably light to carry around for the whole day, even with the camel pack full. This lightness reduces the need to try and find luggage storage to zero. On my travels I seldom have a plan for the overnighting, so having the painless carryability is crucial for me. This time it ment that every night I was sleeping somewhere else. It's a bliss to have a lot of good friends.
 
-<article style=""><h1></h1><p></p><img src="http://i.imgur.com/q1nJS48s.jpg" /></article>
+<article style=""><h1>Packing list for the trip at lighterpack.com</h1><img src="http://i.imgur.com/q1nJS48s.jpg" /></article>
 
 I equipped my GR0 with a camelpack. It immediately found it's place as a core ingredient of my future backpacking experiences. I tend to go thirsty fairly easily and when thirsty I also get annoyed more or less about everything in no time. So having a source of water with me will make me a more pleasant person to travel with in the future. Yay for everyone!
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/030686c5e97b77e207b116fd6d903ffd/passthrough.jpg?input=http%3A%2F%2Fi.imgur.com%2Fq1nJS48s.jpg&width=90&height=90)
