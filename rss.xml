@@ -5,7 +5,7 @@
         <description><![CDATA[Wandering monster]]></description>
         <link>http://wanderingmonster.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Sep 2015 08:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2015 08:42:33 GMT</lastBuildDate>
         <atom:link href="http://wanderingmonster.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wandering Monster]]></title>
@@ -13,6 +13,13 @@
             <link>http://wanderingmonster.net/wandering-monster/index.html</link>
             <guid isPermaLink="false">1012abfb-c4b2-4f49-986b-3f3c7dbfbd30</guid>
             <pubDate>Thu, 30 Jul 2015 11:34:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finland, finland]]></title>
+            <description><![CDATA[<article><h1>Finland, finland</h1><p>a 5 day trip to Finland with my new backpack</p><img src="http://i.imgur.com/q1nJS48s.jpg"></article>]]></description>
+            <link>http://wanderingmonster.net/finland-finland/index.html</link>
+            <guid isPermaLink="false">bae50dee-ed58-4960-866b-c88e80a15cb8</guid>
+            <pubDate>Mon, 21 Sep 2015 08:42:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[back online!]]></title>
