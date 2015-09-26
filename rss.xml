@@ -5,7 +5,7 @@
         <description><![CDATA[Wandering monster]]></description>
         <link>http://wanderingmonster.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Sep 2015 09:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2015 13:10:28 GMT</lastBuildDate>
         <atom:link href="http://wanderingmonster.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wandering Monster]]></title>
@@ -13,6 +13,13 @@
             <link>http://wanderingmonster.net/wandering-monster/index.html</link>
             <guid isPermaLink="false">1012abfb-c4b2-4f49-986b-3f3c7dbfbd30</guid>
             <pubDate>Thu, 30 Jul 2015 11:34:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3a5f7a0-545e-48de-bb14-7df7d257c117.gif">]]></description>
+            <link>http://wanderingmonster.net/82e556fe-dac5-47ab-940c-5a7e0cd3a1e1/index.html</link>
+            <guid isPermaLink="false">82e556fe-dac5-47ab-940c-5a7e0cd3a1e1</guid>
+            <pubDate>Sat, 26 Sep 2015 13:10:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Packing list for the trip at lighterpack.com]]></title>
