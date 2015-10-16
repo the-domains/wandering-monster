@@ -6,12 +6,12 @@ color:
     - '#5d666e'
     - '#8a9dab'
     - '#adc0cf'
-  brandStrength: 0.394144
-  lightness: 0.118243
-  rhythmicContrast: 0.309684
-  saturation: 0.404279
+  brandStrength: 0.57545
+  lightness: 0.066441
+  rhythmicContrast: 0.666666
+  saturation: 0.658783
 cta: {}
-layout_spectrum: 0.288288
+layout_spectrum: 0.510135
 name: Wandering monster
 opengraph: {}
 purpose: []
