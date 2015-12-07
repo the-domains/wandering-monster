@@ -1,15 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'http://lighterpack.com/r/99g69r'
 inLanguage: null
 starred: false
 keywords: []
 description: a 5 day trip to Finland with my new backpack
+datePublished: '2015-12-07T18:02:46.079Z'
+dateModified: '2015-12-07T18:02:06.701Z'
 author: []
 related: []
 app_links: []
-datePublished: '2015-09-21T08:46:56.303Z'
-title: 'Finland, finland'
-dateModified: '2015-09-21T08:46:43.271Z'
+title: GR 0 - on the road with it for the first time
 tags:
   - ''
 sourcePath: _posts/2015-09-21-finland-finland.md
@@ -20,7 +23,6 @@ publisher:
   domain: lighterpack.com
   url: 'http://lighterpack.com'
   favicon: 'http://lighterpack.com/favicon.png'
-url: finland-finland/index.html
 _type: Article
 _context: 'http://schema.org'
 
@@ -34,4 +36,3 @@ The size restriction of the backpack means also a weight restriction. The backpa
 <article style=""><h1>Packing list for the trip at lighterpack.com</h1><img src="http://i.imgur.com/q1nJS48s.jpg" /></article>
 
 I equipped my GR0 with a camelpack. It immediately found it's place as a core ingredient of my future backpacking experiences. I tend to go thirsty fairly easily and when thirsty I also get annoyed more or less about everything in no time. So having a source of water with me will make me a more pleasant person to travel with in the future. Yay for everyone!
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/030686c5e97b77e207b116fd6d903ffd/passthrough.jpg?input=http%3A%2F%2Fi.imgur.com%2Fq1nJS48s.jpg&width=90&height=90)
