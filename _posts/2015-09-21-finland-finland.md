@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: a 5 day trip to Finland with my new backpack
-datePublished: '2015-12-07T18:07:41.543Z'
-dateModified: '2015-12-07T18:05:29.842Z'
+datePublished: '2015-12-08T09:06:47.009Z'
+dateModified: '2015-12-07T18:09:28.350Z'
 author: []
 related: []
 app_links: []
@@ -36,3 +36,4 @@ The size restriction of the backpack means also a weight restriction. The backpa
 <article style=""><h1>Packing list for the trip at lighterpack.com</h1><img src="http://i.imgur.com/q1nJS48s.jpg" /></article>
 
 I equipped my GR0 with a camelpack. It immediately found it's place as a core ingredient of my future backpacking experiences. I tend to go thirsty fairly easily and when thirsty I also get annoyed more or less about everything in no time. So having a source of water with me will make me a more pleasant person to travel with in the future. Yay for everyone!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed227f2d-e2e8-472e-aee8-c79ee9e1c1cb.jpg)
