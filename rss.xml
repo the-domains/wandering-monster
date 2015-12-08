@@ -4,7 +4,7 @@
         <description><![CDATA[Wandering monster]]></description>
         <link>http://wanderingmonster.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Dec 2015 09:35:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Dec 2015 09:45:20 GMT</lastBuildDate>
         <atom:link href="http://wanderingmonster.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wandering Monster]]></title>
@@ -67,13 +67,6 @@
             <link>http://wanderingmonster.net/the-binz-experience/index.html</link>
             <guid isPermaLink="false">37d646fe-de4a-4083-b613-7fbed73d57c4</guid>
             <pubDate>Mon, 21 Sep 2015 09:19:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My current packing list.]]></title>
-            <description><![CDATA[<article><h1>My current packing list.</h1><p>The process of packing made easier by having a list online. With LighterPackI can easily keep in track how much everything weights and am I getting any grams away with upgrading existing items.</p></article>]]></description>
-            <link>http://lighterpack.com/r/6zp4qv</link>
-            <guid isPermaLink="false">8d1120b5-0c3d-41d3-a1a3-562dd71d2a2e</guid>
-            <pubDate>Mon, 20 Jul 2015 16:54:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
