@@ -4,7 +4,7 @@
         <description><![CDATA[Wandering monster]]></description>
         <link>http://wanderingmonster.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 15:38:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 15:45:00 GMT</lastBuildDate>
         <atom:link href="http://wanderingmonster.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wandering Monster]]></title>
@@ -12,6 +12,13 @@
             <link>http://wanderingmonster.net/wandering-monster/index.html</link>
             <guid isPermaLink="false">1012abfb-c4b2-4f49-986b-3f3c7dbfbd30</guid>
             <pubDate>Wed, 23 Dec 2015 15:31:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bright nights of Helsinki]]></title>
+            <description><![CDATA[<article><h1>Bright nights of Helsinki</h1><p>This is nearly the complete team enjoying the midnight light in Helsinki.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9fe8f80daf7b188a2dca9dc86e6ff23c0aed5c09.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2f3e0ae-d98e-4888-a5d9-db08308d9c2b.jpg</link>
+            <guid isPermaLink="false">9e34535f-70b8-4e27-94c9-18d599f8c979</guid>
+            <pubDate>Wed, 23 Dec 2015 15:44:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gear]]></title>
