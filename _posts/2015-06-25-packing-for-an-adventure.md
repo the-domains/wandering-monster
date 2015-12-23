@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
+datePublished: '2015-12-23T15:28:38.249Z'
+dateModified: '2015-12-23T15:28:34.009Z'
 title: Packing for an adventure
 tags:
   - ultralight
   - travel
   - clothes
   - gear
-datePublished: '2015-06-25T13:12:07.763Z'
-dateModified: '2015-07-21T08:42:45.489Z'
 sourcePath: _posts/2015-06-25-packing-for-an-adventure.md
 published: true
+author: []
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-url: packing-for-an-adventure/index.html
 _type: Article
 
 ---
