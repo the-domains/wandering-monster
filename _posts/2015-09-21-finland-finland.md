@@ -7,12 +7,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: a 5 day trip to Finland with my new backpack
-datePublished: '2015-12-08T09:35:06.196Z'
-dateModified: '2015-12-08T09:35:02.415Z'
+datePublished: '2015-12-23T15:30:03.949Z'
+dateModified: '2015-12-23T15:03:56.144Z'
 author: []
 related: []
 app_links: []
-title: GR 0 - on the road with it for the first time
+title: GR 0 - on the road for the first time.
 tags:
   - ''
 sourcePath: _posts/2015-09-21-finland-finland.md
