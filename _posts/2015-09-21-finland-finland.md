@@ -6,9 +6,9 @@ isBasedOnUrl: 'http://lighterpack.com/r/99g69r'
 inLanguage: null
 starred: false
 keywords: []
-description: a 5 day trip to Finland with my new backpack
-datePublished: '2015-12-23T15:30:03.949Z'
-dateModified: '2015-12-23T15:03:56.144Z'
+description: ''
+datePublished: '2016-01-08T11:33:42.931Z'
+dateModified: '2016-01-08T11:33:39.946Z'
 author: []
 related: []
 app_links: []
@@ -27,6 +27,8 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
+# GR 0 - on the road for the first time.
+
 Finland was the destination for the first trip with my new Goruck GR0 backpack.  21 liters of space, which I extended a bit with a plastic bag attached to the MOLLE webbing outside the bag as I had to acquire some unplanned additions to my travel set (namely a dress and shoes to fit a fine wedding party).
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed227f2d-e2e8-472e-aee8-c79ee9e1c1cb.jpg)
 
