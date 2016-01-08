@@ -4,7 +4,7 @@
         <description><![CDATA[Wandering monster]]></description>
         <link>http://wanderingmonster.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 12:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jan 2016 12:14:11 GMT</lastBuildDate>
         <atom:link href="http://wanderingmonster.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Allgäau alps]]></title>
@@ -51,9 +51,9 @@
         <item>
             <title><![CDATA[The Binz experience]]></title>
             <description><![CDATA[<article><h1>The Binz experience</h1><p>A weekend in Binz with friends</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84eb82f0968e4bddfbb5634b5dea91b80d8e00e4.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/97f95029-73c1-457a-a4dc-3a4d5e629b6e.jpg</link>
+            <link>http://wanderingmonster.net/the-binz-experience/index.html</link>
             <guid isPermaLink="false">37d646fe-de4a-4083-b613-7fbed73d57c4</guid>
-            <pubDate>Fri, 08 Jan 2016 12:06:08 GMT</pubDate>
+            <pubDate>Fri, 08 Jan 2016 12:14:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
