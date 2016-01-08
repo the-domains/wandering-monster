@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-08T12:04:26.389Z'
-dateModified: '2016-01-08T12:04:19.652Z'
+datePublished: '2016-01-08T12:10:06.960Z'
+dateModified: '2016-01-08T12:10:01.975Z'
 title: The Allgäau alps
 tags:
   - ''
@@ -21,6 +20,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+url: the-allgaau-alps/index.html
 _type: Article
 
 ---
