@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-08T15:59:47.997Z'
-dateModified: '2016-01-08T15:59:39.564Z'
-title: 'Milan, the Ingresse Abaddon experience'
+datePublished: '2016-01-08T16:00:46.207Z'
+dateModified: '2016-01-08T16:00:38.482Z'
+title: 'Milan, the Ingress Abaddon experience'
 author: []
+sourcePath: _posts/2016-01-08-milan-the-ingresse-abaddon-experience.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-08-milan-the-ingresse-abaddon-experience.md
-published: true
 url: milan-the-ingresse-abaddon-experience/index.html
 _type: Article
 
 ---
-# Milan, the Ingresse Abaddon experience
+# Milan, the Ingress Abaddon experience
 
 One of the Ingress Abaddon events was held in Milan on the 12.12.2015\. We decided to go and play a bit. The result was a victory for our team and a lot of good food and wine and gigantic amount of walking.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdd7d651-8e68-4125-9b15-6a5801b9f7b5.jpg)
@@ -33,3 +33,7 @@ One of the Ingress Abaddon events was held in Milan on the 12.12.2015\. We decid
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1c9c5ac-a55c-438c-9dde-dbc61ecbde7a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbc46730-e66c-49c5-8e86-416943f68a1f.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7519a532-2d06-4e83-bebc-eb570e8f7038.jpg)
+
+The full packing list at [lighterpack][0].
+
+[0]: http://lighterpack.com/r/101408
