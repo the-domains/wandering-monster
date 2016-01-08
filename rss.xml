@@ -4,8 +4,15 @@
         <description><![CDATA[Wandering monster]]></description>
         <link>http://wanderingmonster.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 12:07:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jan 2016 12:10:54 GMT</lastBuildDate>
         <atom:link href="http://wanderingmonster.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Allgäau alps]]></title>
+            <description><![CDATA[<article><h1>The Allgäau alps</h1><p>The view from my room was gorgeous, as it always tends to be when staying at the Alps.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cae0ec64896adbc3e136b6dc1c0a1cd7f1c1716c.jpg"></article>]]></description>
+            <link>http://wanderingmonster.net/the-allgaau-alps/index.html</link>
+            <guid isPermaLink="false">477ce49d-0824-4994-ae09-46a022d538df</guid>
+            <pubDate>Fri, 08 Jan 2016 12:10:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bright nights of Helsinki]]></title>
             <description><![CDATA[<article><h1>Bright nights of Helsinki</h1><p>This is nearly the complete team enjoying the midnight light in Helsinki.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a22a2b4abce3f48401ea626e44dcea1fbfd2f213.jpg"></article>]]></description>
