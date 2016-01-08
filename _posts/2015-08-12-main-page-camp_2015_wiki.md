@@ -17,8 +17,8 @@ keywords:
   - ziegeleipark
   - mildenberg
 description: ''
-datePublished: '2015-12-23T15:30:41.705Z'
-dateModified: '2015-12-23T15:27:36.252Z'
+datePublished: '2016-01-08T11:32:42.498Z'
+dateModified: '2016-01-08T11:32:35.354Z'
 title: CCCamp15
 tags:
   - ''
@@ -35,6 +35,8 @@ _type: MediaObject
 _context: 'http://schema.org'
 
 ---
+CCCamp15
+
 Day 0 is here. The preparations are frantic and the amount of stuff that c-base village has brought to location is incomprehensible. 
 
 The blazing heat in our village has taught me one new thing about camping. Space blankets are the most important thing to bring. Covering your tent with those will make sure that you get the few extra hours of sleep in the morning, as the space blanket delays the moment when your tent resembles an oven.
