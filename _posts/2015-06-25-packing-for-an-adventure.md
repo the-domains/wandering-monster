@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-23T15:28:38.249Z'
-dateModified: '2015-12-23T15:28:34.009Z'
+datePublished: '2016-01-08T11:25:49.881Z'
+dateModified: '2016-01-08T11:25:47.066Z'
 title: Packing for an adventure
 tags:
   - ultralight
@@ -27,6 +27,8 @@ publisher:
 _type: Article
 
 ---
+# Packing for an adventure
+
 To travel is to see places. To be able not just to travel, but to go on an adventure requires the ability to decide on a moments notice to go. 
 
 To do this, I need to have a solid plan for the items I pack with me and to have a solid plan, I need to think what qualities are the most important in the gear I use in my everyday life. Traveling should not be an exception, it should be your life with your stuff in a different location.  
