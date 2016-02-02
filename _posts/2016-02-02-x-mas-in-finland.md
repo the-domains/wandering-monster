@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-02T11:39:40.462Z'
-dateModified: '2016-02-02T11:39:14.446Z'
+datePublished: '2016-02-02T11:44:24.887Z'
+dateModified: '2016-02-02T11:44:20.718Z'
 title: x-mas in Finland
 author: []
+sourcePath: _posts/2016-02-02-x-mas-in-finland.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-02-x-mas-in-finland.md
-published: true
 url: x-mas-in-finland/index.html
 _type: Article
 
@@ -31,3 +31,4 @@ Observations on clothing led to me adding a pair of 260 g/m leggings to my shopp
 As a part of the trip we drove up to Central Finland. The ice cover for the lake was just forming up and we used that chance to go for a small rowing trip.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05527c1c-880e-49fa-aff4-4e91ab9de302.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24a92dde-33d6-4eca-a387-d37caa483f41.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b89053cc-4fa7-4430-bbd6-c9be648c9946.jpg)
