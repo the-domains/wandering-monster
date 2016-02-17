@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-08T11:25:49.881Z'
-dateModified: '2016-01-08T11:25:47.066Z'
+datePublished: '2016-02-17T10:24:27.601Z'
+dateModified: '2016-02-17T10:24:24.674Z'
 title: Packing for an adventure
 tags:
   - ultralight
@@ -24,6 +23,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+url: packing-for-an-adventure/index.html
 _type: Article
 
 ---
