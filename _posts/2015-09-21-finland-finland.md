@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://lighterpack.com/r/99g69r'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T09:30:01.723Z'
-dateModified: '2016-02-05T09:29:55.159Z'
+datePublished: '2016-02-17T10:06:17.683Z'
+dateModified: '2016-02-17T10:06:08.105Z'
 author: []
 related: []
 app_links: []
@@ -23,6 +22,7 @@ publisher:
   domain: lighterpack.com
   url: 'http://lighterpack.com'
   favicon: 'http://lighterpack.com/favicon.png'
+url: gr-0-on-the-road-for-the-first-time/index.html
 _type: Article
 _context: 'http://schema.org'
 
