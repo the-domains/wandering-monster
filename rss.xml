@@ -4,8 +4,15 @@
         <description><![CDATA[Wandering monster]]></description>
         <link>http://wanderingmonster.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 10:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 10:27:50 GMT</lastBuildDate>
         <atom:link href="http://wanderingmonster.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Binz experience]]></title>
+            <description><![CDATA[<article><h1>The Binz experience</h1><p>We stayed in a small holiday home not far from the mains street at waters edge. On the firs evening we played some ingress, ate well and did some sightseeing on the pier.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b77b63ac8f1ea351416e69821b1c493037089691.jpg"></article>]]></description>
+            <link>http://wanderingmonster.net/the-binz-experience/index.html</link>
+            <guid isPermaLink="false">37d646fe-de4a-4083-b613-7fbed73d57c4</guid>
+            <pubDate>Wed, 17 Feb 2016 10:24:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Packing for an adventure]]></title>
             <description><![CDATA[<article><h1>Packing for an adventure</h1><p>To travel is to see places. To be able not just to travel, but to go on an adventure requires the ability to decide on a moments notice to go. </p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://wanderingmonster.net/gr-0-on-the-road-for-the-first-time/index.html</link>
             <guid isPermaLink="false">bae50dee-ed58-4960-866b-c88e80a15cb8</guid>
             <pubDate>Wed, 17 Feb 2016 10:06:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CCCamp15]]></title>
-            <description><![CDATA[<article><h1>CCCamp15</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d69d8aaad02aad1d01f795b09905a82e45b7a47.png"></article>]]></description>
-            <link>http://wanderingmonster.net/cccamp15/index.html</link>
-            <guid isPermaLink="false">f772c6e4-6871-4a00-a852-e17009bf48b0</guid>
-            <pubDate>Wed, 17 Feb 2016 10:19:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
