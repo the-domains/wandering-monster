@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://events.ccc.de/camp/2015/wiki/Main_Page'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - ziegeleipark
   - mildenberg
 description: ''
-datePublished: '2016-01-08T11:32:42.498Z'
-dateModified: '2016-01-08T11:32:35.354Z'
+datePublished: '2016-02-17T10:19:39.737Z'
+dateModified: '2016-02-17T10:19:37.774Z'
 title: CCCamp15
 tags:
   - ''
@@ -31,13 +30,17 @@ publisher:
   domain: events.ccc.de
   url: 'https://events.ccc.de'
   favicon: null
+url: cccamp15/index.html
 _type: MediaObject
 _context: 'http://schema.org'
 
 ---
 CCCamp15
 
-Day 0 is here. The preparations are frantic and the amount of stuff that c-base village has brought to location is incomprehensible. 
+Nearly a week of camping and nerding out.   
+We started preparing for CCCamp weeks before it started. I had a secret project for the camp with ijon. We were going to build a 1 to 42 scale model of the c-base antenna, some people also call it the tv-tower. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b83c2d02-cdd0-4e58-8f8c-a11333d6b3d8.jpg)
+
+3 days befor the CCCamp started I drove up to the camping site with my Enfield. I started my journey at ridiculously early as I wanted to avert the heat of the day, which I did. Full leather driving gear is not the best when it's +35 outside. 
 
 The blazing heat in our village has taught me one new thing about camping. Space blankets are the most important thing to bring. Covering your tent with those will make sure that you get the few extra hours of sleep in the morning, as the space blanket delays the moment when your tent resembles an oven.
 
