@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-02T11:44:25.019Z'
-dateModified: '2016-02-02T11:44:20.718Z'
+datePublished: '2016-02-17T10:26:46.458Z'
+dateModified: '2016-02-17T09:53:19.598Z'
 title: x-mas in Finland
 author: []
 sourcePath: _posts/2016-02-02-x-mas-in-finland.md
