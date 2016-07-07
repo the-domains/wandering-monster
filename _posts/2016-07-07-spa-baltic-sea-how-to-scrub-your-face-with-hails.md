@@ -5,14 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-07T09:25:43.818Z'
-dateModified: '2016-07-07T09:25:27.336Z'
+datePublished: '2016-07-07T09:30:31.193Z'
+dateModified: '2016-07-07T09:29:23.347Z'
 title: Spa Baltic Sea - how to scrub your face with hails.
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-07-07-spa-baltic-sea-how-to-scrub-your-face-with-hails.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-07-spa-baltic-sea-how-to-scrub-your-face-with-hails.md
 url: spa-baltic-sea-how-to-scrub-your-face-with-hails/index.html
 _type: Article
 
