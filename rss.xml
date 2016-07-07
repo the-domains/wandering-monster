@@ -4,8 +4,15 @@
         <description><![CDATA[Wandering monster]]></description>
         <link>http://wanderingmonster.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 08:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 09:25:51 GMT</lastBuildDate>
         <atom:link href="http://wanderingmonster.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Spa Baltic Sea - how to scrub your face with hails.]]></title>
+            <description><![CDATA[<article><h1>Spa Baltic Sea - how to scrub your face with hails.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eccabe53-5fa4-408d-9db3-b617433043e8.jpg"></article>]]></description>
+            <link>http://wanderingmonster.net/spa-baltic-sea-how-to-scrub-your-face-with-hails/index.html</link>
+            <guid isPermaLink="false">04f3b82a-4dcb-4a1e-b29a-707c674153aa</guid>
+            <pubDate>Thu, 07 Jul 2016 09:25:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sailing with schooner Helena]]></title>
             <description><![CDATA[<article><h1>Sailing with schooner Helena</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf6246f2-2b54-4673-ac54-b607787ab365.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://wanderingmonster.net/remote-office-leeds-edition/index.html</link>
             <guid isPermaLink="false">2047db19-f411-4296-9e10-5fbfc4f24f42</guid>
             <pubDate>Fri, 08 Jan 2016 13:48:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Allgäau alps]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/40b1f3e4-c550-45e6-95d4-0c4dd7ea670b.jpg">]]></description>
-            <link>http://wanderingmonster.net/the-allgaau-alps/index.html</link>
-            <guid isPermaLink="false">477ce49d-0824-4994-ae09-46a022d538df</guid>
-            <pubDate>Fri, 08 Jan 2016 12:10:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
