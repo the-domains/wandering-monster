@@ -1,38 +1,34 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-01-08T16:00:46.207Z'
-dateModified: '2016-01-08T16:00:38.482Z'
-title: 'Milan, the Ingress Abaddon experience'
 author: []
+dateModified: '2016-07-13T09:36:36.704Z'
+datePublished: '2016-07-13T09:36:38.800Z'
+description: >-
+  One of the Ingress Abaddon events was held in Milan on the 12.12.2015. We
+  decided to go and play a bit. The result was a victory for our team and a lot
+  of good food and wine and gigantic amount of walking.
+hasPage: true
+inFeed: true
+inNav: false
+keywords: []
+publisher: null
+title: 'Milan, the Ingress Abaddon experience.'
+starred: false
 sourcePath: _posts/2016-01-08-milan-the-ingresse-abaddon-experience.md
-published: true
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 url: milan-the-ingresse-abaddon-experience/index.html
 _type: Article
 
 ---
-# Milan, the Ingress Abaddon experience
+# Milan, the Ingress Abaddon experience.
 
 One of the Ingress Abaddon events was held in Milan on the 12.12.2015\. We decided to go and play a bit. The result was a victory for our team and a lot of good food and wine and gigantic amount of walking.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdd7d651-8e68-4125-9b15-6a5801b9f7b5.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29115cfc-7456-4973-9c9d-26c76271ce29.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/889fbaab-0d4d-49fe-a3c7-b032d3d882eb.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4aa5fdeb-5e07-4ed2-ab8c-944d88ba9cc8.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dcb2dad-5da2-4007-af59-5b767d7cc688.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1c9c5ac-a55c-438c-9dde-dbc61ecbde7a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbc46730-e66c-49c5-8e86-416943f68a1f.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7519a532-2d06-4e83-bebc-eb570e8f7038.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9926edb17c5764875396242d652d8b8d2119251d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b5554d39456b05a7249a8081efe9d5bf362ddef.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9bf574702cb41fbcaee997933dcafbf245ff56d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ec4b9fbeb137d59e754ab8dc207465820036c38.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9acf5bce00b6676e7d694640f6fc111f38a0547.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/04f66a8f87ba36bc357f638f9392c2063d958af8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/10ce72d6312f69322edda96bf4ed39399859f68f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfa335373febbb5e1118688bc051dbca15f5d7d8.jpg)
 
 The full packing list at [lighterpack][0].
 
