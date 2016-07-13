@@ -4,8 +4,22 @@
         <description><![CDATA[Wandering monster]]></description>
         <link>http://wanderingmonster.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 09:36:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 09:39:20 GMT</lastBuildDate>
         <atom:link href="http://wanderingmonster.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Remote office - Leeds edition]]></title>
+            <description><![CDATA[<article><h1>Remote office - Leeds edition</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb7daf636df871ce82c285c1bab95236ad4c525a.jpg"></article>]]></description>
+            <link>http://wanderingmonster.net/remote-office-leeds-edition/index.html</link>
+            <guid isPermaLink="false">2047db19-f411-4296-9e10-5fbfc4f24f42</guid>
+            <pubDate>Wed, 13 Jul 2016 09:38:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Milan, the Ingress Abaddon experience.]]></title>
+            <description><![CDATA[<article><h1>Milan, the Ingress Abaddon experience.</h1><p>One of the Ingress Abaddon events was held in Milan on the 12.12.2015. We decided to go and play a bit. The result was a victory for our team and a lot of good food and wine and gigantic amount of walking.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9926edb17c5764875396242d652d8b8d2119251d.jpg"></article>]]></description>
+            <link>http://wanderingmonster.net/milan-the-ingresse-abaddon-experience/index.html</link>
+            <guid isPermaLink="false">b0920751-9615-4024-a278-a5d16fcc0849</guid>
+            <pubDate>Wed, 13 Jul 2016 09:36:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[x-mas in Finland]]></title>
             <description><![CDATA[<article><h1>x-mas in Finland</h1><p>10 days in Finland meeting friends and family. Helsinki was beautiful and gloomy. Luckily for the last 2 days we actually got to experience a bit of winter (which I have dearly missed) when a few centimeters of snow and a brutally icy wind hit Helsinki.Goruck was packed to the extremes, when also the gifts that I got needed to be packed in. Observations on clothing led to me adding a pair of 260 g/m leggings to my shopping list and buying a Särmä merino hoodie for my travels. Now I should be warm in any given weather.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ba7563ade6f6d0b3869ebed79c9c5315a2636e4.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://wanderingmonster.net/bright-nights-of-helsinki/index.html</link>
             <guid isPermaLink="false">9e34535f-70b8-4e27-94c9-18d599f8c979</guid>
             <pubDate>Wed, 17 Feb 2016 10:21:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On staying dry]]></title>
-            <description><![CDATA[<article><h1>On staying dry</h1><p>Rain, the ever present companion of trips. The problem that needs to be adressed is how to protect yourself from rain. Though I usually opt in to just have a single solution to a problem, with rain I have chosen to address staying dry with a dual solution; umbrella for city trips and rain poncho for more outdoorsy trips. </p></article>]]></description>
-            <link>http://wanderingmonster.net/on-staying-dry/index.html</link>
-            <guid isPermaLink="false">708d50dc-2b37-4c92-b528-e6b5f24b1958</guid>
-            <pubDate>Wed, 17 Feb 2016 09:52:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Milan, the Ingress Abaddon experience]]></title>
-            <description><![CDATA[<article><h1>Milan, the Ingress Abaddon experience</h1><p>One of the Ingress Abaddon events was held in Milan on the 12.12.2015. We decided to go and play a bit. The result was a victory for our team and a lot of good food and wine and gigantic amount of walking.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9926edb17c5764875396242d652d8b8d2119251d.jpg"></article>]]></description>
-            <link>http://wanderingmonster.net/milan-the-ingresse-abaddon-experience/index.html</link>
-            <guid isPermaLink="false">b0920751-9615-4024-a278-a5d16fcc0849</guid>
-            <pubDate>Fri, 08 Jan 2016 16:00:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
