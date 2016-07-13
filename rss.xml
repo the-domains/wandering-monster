@@ -4,8 +4,15 @@
         <description><![CDATA[Wandering monster]]></description>
         <link>http://wanderingmonster.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 09:30:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 09:33:04 GMT</lastBuildDate>
         <atom:link href="http://wanderingmonster.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Allgäau alps]]></title>
+            <description><![CDATA[<article><h1>The Allgäau alps</h1><p>For a glorious and brutally hot 4 days our company packed itself to a plane, flew to Allgäau to stay at hotel Prinz-Luitpold-Bad, a luxurious four star wellness hotel in the Allgäau alps. The idea behind the trip was to relax, do some hiking and enjoy good food.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1802ac5c5f40496f4cdcdf7477290fb2983f1313.jpg"></article>]]></description>
+            <link>http://wanderingmonster.net/the-allgaau-alps/index.html</link>
+            <guid isPermaLink="false">477ce49d-0824-4994-ae09-46a022d538df</guid>
+            <pubDate>Wed, 13 Jul 2016 09:32:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Spa Baltic Sea - how to scrub your face with hails.]]></title>
             <description><![CDATA[<article><h1>Spa Baltic Sea - how to scrub your face with hails.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f20a233-b530-4178-8a5f-55beefd7bc78.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://wanderingmonster.net/milan-the-ingresse-abaddon-experience/index.html</link>
             <guid isPermaLink="false">b0920751-9615-4024-a278-a5d16fcc0849</guid>
             <pubDate>Fri, 08 Jan 2016 16:00:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Remote office - Leeds edition]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/48cdc7aa-35b5-470d-88bf-4bb9fd25f925.jpg">]]></description>
-            <link>http://wanderingmonster.net/remote-office-leeds-edition/index.html</link>
-            <guid isPermaLink="false">2047db19-f411-4296-9e10-5fbfc4f24f42</guid>
-            <pubDate>Fri, 08 Jan 2016 13:48:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
