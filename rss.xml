@@ -4,8 +4,15 @@
         <description><![CDATA[Wandering monster]]></description>
         <link>http://wanderingmonster.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 09:39:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2016 15:44:12 GMT</lastBuildDate>
         <atom:link href="http://wanderingmonster.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Euroderbycon in Barcelona]]></title>
+            <description><![CDATA[<article><h1>Euroderbycon in Barcelona</h1><p>Derby, derby, beer, derby, sangria, derby, dancing, derby, beer and death.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4971c5c-629a-4467-8f8b-89d0e8b08f9c.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4971c5c-629a-4467-8f8b-89d0e8b08f9c.jpg</link>
+            <guid isPermaLink="false">f889f17a-3e70-415b-9e1e-29dc7568517f</guid>
+            <pubDate>Sun, 17 Jul 2016 15:44:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Remote office - Leeds edition]]></title>
             <description><![CDATA[<article><h1>Remote office - Leeds edition</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb7daf636df871ce82c285c1bab95236ad4c525a.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://wanderingmonster.net/packing-for-an-adventure/index.html</link>
             <guid isPermaLink="false">71189194-15f4-4c6c-8f9a-4b54e1f72fc8</guid>
             <pubDate>Wed, 17 Feb 2016 10:24:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Steampunk bar in Helsinki, SteamHellsinki has a bar dog! It gets cucumbers when it queues with you at the counter.]]></title>
-            <description><![CDATA[<article><h1>The Steampunk bar in Helsinki, SteamHellsinki has a bar dog! It gets cucumbers when it queues with you at the counter.</h1><p>This is nearly the complete team enjoying the midnight light in Helsinki.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9effe2b05146321c2018b086fc80c8217c534cb5.jpg"></article>]]></description>
-            <link>http://wanderingmonster.net/bright-nights-of-helsinki/index.html</link>
-            <guid isPermaLink="false">9e34535f-70b8-4e27-94c9-18d599f8c979</guid>
-            <pubDate>Wed, 17 Feb 2016 10:21:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
