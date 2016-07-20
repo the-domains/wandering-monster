@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T11:23:08.583Z'
+datePublished: '2016-07-20T11:23:23.177Z'
 sourcePath: _posts/2015-09-21-finland-finland.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-20T11:23:07.586Z'
+dateModified: '2016-07-20T11:23:22.292Z'
 title: GR 0 - on the road for the first time.
 tags:
   - ''
@@ -40,9 +40,5 @@ The backpack proved to be a good fit for me. The GR0 is comfortable to carry. Th
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a91cd20c1eca2e29f238a8fac6ff023c3415d2e3.jpg)
 
 The full packing list can be found at [lighterpack.com][0]
-
-The size restriction of the backpack means also a weight restriction. The backpack is reasonably light to carry around for the whole day, even with the camel pack full. This lightness reduces the need to try and find luggage storage to zero. On my travels I seldom have a plan for the overnighting, so having the painless carryability is crucial for me. This time it ment that every night I was sleeping somewhere else. It's a bliss to have a lot of good friends.
-
-I equipped my GR0 with a camelpack. It immediately found it's place as a core ingredient of my future backpacking experiences. I tend to go thirsty fairly easily and when thirsty I also get annoyed more or less about everything in no time. So having a source of water with me will make me a more pleasant person to travel with in the future. Yay for everyone!
 
 [0]: http://lighterpack.com/r/99g69r
