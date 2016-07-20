@@ -4,8 +4,15 @@
         <description><![CDATA[Wandering monster]]></description>
         <link>http://wanderingmonster.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 14:29:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 14:59:31 GMT</lastBuildDate>
         <atom:link href="http://wanderingmonster.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The voyage across the Atlantic]]></title>
+            <description><![CDATA[<article><h1>The voyage across the Atlantic</h1><p>3706nm of sailing. From Tenerife to Mindelo to Barbados to Tobago Cays to St.Lucia to Martinique. An absolutely fabulous month of my life.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/609e2c57aecd62c07def9f3c300338b1/croprotate.jpg?cropheight=4367&cropwidth=3117&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ffba190de-d9a2-45b8-ae1e-3478071d0d8b.jpg&x=0&y=0"></article>]]></description>
+            <link>http://wanderingmonster.net/the-voyage-across-the-atlantic/index.html</link>
+            <guid isPermaLink="false">45041ed0-5129-4ffa-a01e-ddd49dd8b009</guid>
+            <pubDate>Wed, 20 Jul 2016 14:59:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The voyage across the Atlantic]]></title>
             <description><![CDATA[<article><h1>The voyage across the Atlantic</h1><p>3706nm of sailing. From Tenerife to Mindelo to Barbados to Tobago Cays to St.Lucia to Martinique. An absolutely fabulous month of my life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/301397faae7f27fd74f5eec8c5fe28ed899b4c8e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://wanderingmonster.net/milan-the-ingresse-abaddon-experience/index.html</link>
             <guid isPermaLink="false">b0920751-9615-4024-a278-a5d16fcc0849</guid>
             <pubDate>Wed, 20 Jul 2016 10:43:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euroderbycon in Barcelona]]></title>
-            <description><![CDATA[<article><h1>Euroderbycon in Barcelona</h1><p>Derby, derby, beer, derby, sangria, derby, dancing, derby, beer and death.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4971c5c-629a-4467-8f8b-89d0e8b08f9c.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4971c5c-629a-4467-8f8b-89d0e8b08f9c.jpg</link>
-            <guid isPermaLink="false">f889f17a-3e70-415b-9e1e-29dc7568517f</guid>
-            <pubDate>Sun, 17 Jul 2016 15:44:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
