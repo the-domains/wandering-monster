@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T11:22:42.384Z'
+datePublished: '2016-07-20T11:22:54.847Z'
 sourcePath: _posts/2015-09-21-finland-finland.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-20T11:22:41.299Z'
+dateModified: '2016-07-20T11:22:54.301Z'
 title: GR 0 - on the road for the first time.
 tags:
   - ''
