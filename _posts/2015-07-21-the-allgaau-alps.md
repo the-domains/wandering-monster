@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T10:54:17.712Z'
+datePublished: '2016-07-20T10:54:25.466Z'
 sourcePath: _posts/2015-07-21-the-allgaau-alps.md
 inFeed: true
 hasPage: true
@@ -7,7 +7,7 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-20T10:54:16.486Z'
+dateModified: '2016-07-20T10:54:24.921Z'
 title: The Allgäau alps
 publisher: null
 description: >-
@@ -24,12 +24,11 @@ _type: Article
 # The Allgäau alps
 
 For a glorious and brutally hot 4 days our company packed itself to a plane, flew to Allgäau to stay at hotel Prinz-Luitpold-Bad, a luxurious four star wellness hotel in the Allgäau alps. The idea behind the trip was to relax, do some hiking and enjoy good food.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1802ac5c5f40496f4cdcdf7477290fb2983f1313.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bb9fc7010db4aeedffb482e84ecc22c777f00ab.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a41d7a2705339210781ed3799d503ce8152f2eb.jpg)
-![All packed ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/354c1d01504ec0dbbab98c9ec145324a56641675.jpg)
 
 The view from my room was gorgeous, as it always tends to be when staying at the Alps.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1802ac5c5f40496f4cdcdf7477290fb2983f1313.jpg)
 
 We started the weekend with some well earned relaxation. Sauna, pool, sunshine and a bit of weißweinschorle do wonders for a human being.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6e4958c8981292fd7107de0f09d4458d6d7faa6.jpg)
@@ -58,5 +57,6 @@ And this one really went for the cuddles.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9c24112bbd34c12b2dee6858171616fe1dfaca2.jpg)
 
 All of my stuff packed into a GR0\. It was a snug fit, but I made it! I had just the perfect gear and I felt that nothing was missing. Full packing list at [Lighterpack][0].
+![All packed ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/354c1d01504ec0dbbab98c9ec145324a56641675.jpg)
 
 [0]: http://lighterpack.com/r/3qc01a
