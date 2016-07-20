@@ -1,18 +1,19 @@
 ---
-datePublished: '2016-07-20T11:27:17.152Z'
+datePublished: '2016-07-20T11:27:58.603Z'
 sourcePath: _posts/2016-07-07-sailing-with-schooner-helena.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T11:27:15.975Z'
+dateModified: '2016-07-20T11:27:58.087Z'
 title: Sailing with schooner Helena
 publisher: null
 description: >-
   Returning to Helena for the first time after the Atlantic crossing was lovely.
   The boat felt like home immediately. Thought when the opportunity arose, I did
-  not go sleep in the bow cabin, but upgraded 
+  not go sleep in the bow cabin, but upgraded more to the center. I was not
+  ready to handle the bad airflow of the bow again.
 inLanguage: null
 inNav: false
 starred: false
@@ -22,7 +23,8 @@ _type: Article
 ---
 # Sailing with schooner Helena
 
-Returning to Helena for the first time after the Atlantic crossing was lovely. The boat felt like home immediately. Thought when the opportunity arose, I did not go sleep in the bow cabin, but upgraded ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf6246f2-2b54-4673-ac54-b607787ab365.jpg)
+Returning to Helena for the first time after the Atlantic crossing was lovely. The boat felt like home immediately. Thought when the opportunity arose, I did not go sleep in the bow cabin, but upgraded more to the center. I was not ready to handle the bad airflow of the bow again.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf6246f2-2b54-4673-ac54-b607787ab365.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60ebb65b-a029-4d75-a740-a3d1560d38dc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0020a83b-436a-4b64-aa51-a0acd8c6aac9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/082b92a3-11b9-41d7-b5de-a02821771dbf.jpg)
