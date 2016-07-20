@@ -1,18 +1,18 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-07-07T08:44:28.309Z'
-dateModified: '2016-07-07T08:39:29.469Z'
-title: Sailing with schooner Helena
-author: []
-authors: []
-publisher: null
-starred: false
+datePublished: '2016-07-20T11:25:17.231Z'
 sourcePath: _posts/2016-07-07-sailing-with-schooner-helena.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-07-20T11:25:16.430Z'
+title: Sailing with schooner Helena
+publisher: null
+description: ''
+inLanguage: null
+inNav: false
+starred: false
 url: sailing-with-schooner-helena/index.html
 _type: Article
 
@@ -28,7 +28,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2b29374-2f1d-4a42-84e4-d998f1df4ebc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef05e830-215a-43d8-a5e0-b36e52a61826.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df9e13c6-a668-4cb3-8f0b-4d4a3cf13629.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac686ff7-5cac-4817-9706-0e7eaaafdb85.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3b65e45-6669-47db-83ae-7561fc65a73d.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8884e2e87fb5aaee13730ac31b87432d/croprotate.jpg?cropheight=1734&cropwidth=9248&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fac686ff7-5cac-4817-9706-0e7eaaafdb85.jpg&x=0&y=0)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b2ec538bdb90e95ed68754a10d0c0543/croprotate.jpg?cropheight=2380&cropwidth=6716&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe3b65e45-6669-47db-83ae-7561fc65a73d.jpg&x=0&y=0)
 
 Packing list: https://lighterpack.com/r/75bcpt
