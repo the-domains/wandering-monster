@@ -1,7 +1,13 @@
 ---
+datePublished: '2016-07-20T10:46:07.082Z'
+sourcePath: _posts/2016-02-02-x-mas-in-finland.md
+inFeed: true
+hasPage: true
+keywords: []
 author: []
-dateModified: '2016-07-13T09:35:40.325Z'
-datePublished: '2016-07-13T09:35:46.218Z'
+dateModified: '2016-07-20T10:46:06.414Z'
+title: x-mas in Finland
+publisher: null
 description: >-
   10 days in Finland meeting friends and family. Helsinki was beautiful and
   gloomy. Luckily for the last 2 days we actually got to experience a bit of
@@ -10,14 +16,8 @@ description: >-
   the gifts that I got needed to be packed in.  Observations on clothing led to
   me adding a pair of 260 g/m leggings to my shopping list and buying a Särmä
   merino hoodie for my travels. Now I should be warm in any given weather.
-hasPage: true
-inFeed: true
 inNav: false
-keywords: []
-publisher: null
-title: x-mas in Finland
 starred: false
-sourcePath: _posts/2016-02-02-x-mas-in-finland.md
 url: x-mas-in-finland/index.html
 _type: Article
 
