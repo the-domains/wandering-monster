@@ -4,8 +4,15 @@
         <description><![CDATA[Wandering monster]]></description>
         <link>http://wanderingmonster.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 11:28:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 14:26:29 GMT</lastBuildDate>
         <atom:link href="http://wanderingmonster.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The voyage across the Atlantic]]></title>
+            <description><![CDATA[<article><h1>The voyage across the Atlantic</h1><p>3706nm of sailing. From Tenerife to Mindelo to Barbados to Tobago Cays to St.Lucia to Martinique. An absolutely fabulous month of my life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/301397faae7f27fd74f5eec8c5fe28ed899b4c8e.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4438cdf9-6f9a-418c-ac81-38268d363cd9.jpg</link>
+            <guid isPermaLink="false">ddd417f4-53c4-420c-a8aa-2b711fcff0d4</guid>
+            <pubDate>Wed, 20 Jul 2016 14:26:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sailing with schooner Helena]]></title>
             <description><![CDATA[<article><h1>Sailing with schooner Helena</h1><p>Returning to Helena for the first time after the Atlantic crossing was lovely. The boat felt like home immediately. Thought when the opportunity arose, I did not go sleep in the bow cabin, but upgraded more to the center. I was not ready to handle the </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf6246f2-2b54-4673-ac54-b607787ab365.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4971c5c-629a-4467-8f8b-89d0e8b08f9c.jpg</link>
             <guid isPermaLink="false">f889f17a-3e70-415b-9e1e-29dc7568517f</guid>
             <pubDate>Sun, 17 Jul 2016 15:44:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Remote office - Leeds edition]]></title>
-            <description><![CDATA[<article><h1>Remote office - Leeds edition</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb7daf636df871ce82c285c1bab95236ad4c525a.jpg"></article>]]></description>
-            <link>http://wanderingmonster.net/remote-office-leeds-edition/index.html</link>
-            <guid isPermaLink="false">2047db19-f411-4296-9e10-5fbfc4f24f42</guid>
-            <pubDate>Wed, 13 Jul 2016 09:38:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
