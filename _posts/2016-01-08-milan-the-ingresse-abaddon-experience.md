@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-20T10:39:57.018Z'
+datePublished: '2016-07-20T10:40:36.817Z'
 sourcePath: _posts/2016-01-08-milan-the-ingresse-abaddon-experience.md
 inFeed: true
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T10:39:56.486Z'
+dateModified: '2016-07-20T10:40:36.119Z'
 title: 'Milan, the Ingress Abaddon experience.'
 publisher: null
 description: >-
