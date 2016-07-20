@@ -1,23 +1,22 @@
 ---
-datePublished: '2016-07-20T11:21:58.448Z'
-sourcePath: _posts/2016-02-17-on-staying-dry.md
-inFeed: true
-authors: []
-hasPage: true
-keywords: []
 author: []
-dateModified: '2016-07-20T11:21:56.596Z'
-title: On staying dry
-publisher: null
+dateModified: '2016-07-20T19:09:52.815Z'
+datePublished: '2016-07-20T19:10:04.313Z'
 description: >-
   Rain, the ever present companion of trips. The problem that needs to be
   adressed is how to protect yourself from rain. Though I usually opt in to just
   have a single solution to a problem, with rain I have chosen to address
   staying dry with a dual solution; umbrella for city trips and rain jacket for
   more outdoorsy trips.
-inLanguage: null
+hasPage: true
+inFeed: true
 inNav: false
+keywords: []
+title: On staying dry
+publisher: {}
+via: {}
 starred: false
+sourcePath: _posts/2016-02-17-on-staying-dry.md
 url: on-staying-dry/index.html
 _type: Article
 
