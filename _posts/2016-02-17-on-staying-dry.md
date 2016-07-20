@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-20T11:14:41.265Z'
+datePublished: '2016-07-20T11:15:28.732Z'
 sourcePath: _posts/2016-02-17-on-staying-dry.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T11:14:40.659Z'
+dateModified: '2016-07-20T11:15:27.990Z'
 title: On staying dry
 publisher: null
 description: >-
@@ -30,8 +30,9 @@ The reasoning behind the dual solution is the different characteristics of the e
 
 On umbrellas I made quite a bit of research which basically lead nowhere. Yes, there was a few brands that featured in many blog posts, but the availability of those brands in Europe was nonexistent. And living in Germany and the hassle of needing to actually go to Zollamt on some of the cases really discourages you from shopping outside the EU area.
 
-I ended up choosing a local brand,[EuroSchirm][0], the model I chose was [Light Trek][1]. I could have chosen a model that is lighter and smaller, but I didn't. I have the space and I can carry the weight. Fewer hinges gives out fewer places where the umbrella can break. The previous umbrella I had in this size held up for 6 years (did not carry it with me every day), I hope this one will do as much at least. Only future will tell if this was a good choice.  
-The type and material of the rain poncho is still under serious consideration. We shall see where these considerations will lead to.
+I ended up choosing a local brand,[EuroSchirm][0], the model I chose was [Light Trek][1]. I could have chosen a model that is lighter and smaller, but I didn't. I have the space and I can carry the weight. Fewer hinges gives out fewer places where the umbrella can break. The previous umbrella I had in this size held up for 6 years (did not carry it with me every day), I hope this one will do as much at least.
+
+Regarding the rain jacket, 
 
 [0]: http://www.euroschirm.com/
 [1]: http://www.euroschirm.com/schirm/LightTrek/index.cgi
