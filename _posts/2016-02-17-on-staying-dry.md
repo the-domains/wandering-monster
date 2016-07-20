@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-20T11:14:21.104Z'
+datePublished: '2016-07-20T11:14:41.265Z'
 sourcePath: _posts/2016-02-17-on-staying-dry.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T11:14:20.547Z'
+dateModified: '2016-07-20T11:14:40.659Z'
 title: On staying dry
 publisher: null
 description: >-
@@ -26,7 +26,7 @@ _type: Article
 
 Rain, the ever present companion of trips. The problem that needs to be adressed is how to protect yourself from rain. Though I usually opt in to just have a single solution to a problem, with rain I have chosen to address staying dry with a dual solution; umbrella for city trips and rain jacket for more outdoorsy trips.
 
-The reasoning behind the dual solution is the different characteristics of the environments. In city landscape I mostly need to protect myself only for relatively short periods at the time. For that an umbrella is a easy to use and quick to deploy solution. For hiking the problem is different. Then the probable situation is that I need to stay in the rain for whole of the day, so I want to have free hands and good rain cover, ergo rain poncho.
+The reasoning behind the dual solution is the different characteristics of the environments. In city landscape I mostly need to protect myself only for relatively short periods at the time. For that an umbrella is a easy to use and quick to deploy solution. For hiking the problem is different. Then the probable situation is that I need to stay in the rain for whole of the day, so I want to have free hands and good rain cover, ergo rain jacket.
 
 On umbrellas I made quite a bit of research which basically lead nowhere. Yes, there was a few brands that featured in many blog posts, but the availability of those brands in Europe was nonexistent. And living in Germany and the hassle of needing to actually go to Zollamt on some of the cases really discourages you from shopping outside the EU area.
 
