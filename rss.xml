@@ -4,8 +4,15 @@
         <description><![CDATA[Wandering monster]]></description>
         <link>http://wanderingmonster.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 11:08:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 11:10:11 GMT</lastBuildDate>
         <atom:link href="http://wanderingmonster.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CCCamp15]]></title>
+            <description><![CDATA[<article><h1>CCCamp15</h1><p>Nearly a week of camping and nerding out.  We started preparing for CCCamp weeks before it started. I had a secret project for the camp with ijon. We were going to build a 1 to 42 scale model of the c-base antenna, some people also call it the tv-tower.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ea4cb2f9a64bcac3abb1cf83f636f2940e1bd71.jpg"></article>]]></description>
+            <link>http://wanderingmonster.net/cccamp15/index.html</link>
+            <guid isPermaLink="false">f772c6e4-6871-4a00-a852-e17009bf48b0</guid>
+            <pubDate>Wed, 20 Jul 2016 11:09:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Binz experience]]></title>
             <description><![CDATA[<article><h1>The Binz experience</h1><p>A weekend trip to Binz with friends.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88a61dae99075f4bfb780b7ee5e69c3d629cbdcb.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://wanderingmonster.net/everyday-items/index.html</link>
             <guid isPermaLink="false">f7efd460-e69a-4863-a8be-ac7f4df74b14</guid>
             <pubDate>Wed, 17 Feb 2016 18:39:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Packing for an adventure]]></title>
-            <description><![CDATA[<article><h1>Packing for an adventure</h1><p>To travel is to see places. To be able not just to travel, but to go on an adventure requires the ability to decide on a moments notice to go. </p></article>]]></description>
-            <link>http://wanderingmonster.net/packing-for-an-adventure/index.html</link>
-            <guid isPermaLink="false">71189194-15f4-4c6c-8f9a-4b54e1f72fc8</guid>
-            <pubDate>Wed, 17 Feb 2016 10:24:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
