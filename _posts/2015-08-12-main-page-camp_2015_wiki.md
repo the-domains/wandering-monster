@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T11:09:31.586Z'
+datePublished: '2016-07-20T11:09:13.960Z'
 sourcePath: _posts/2015-08-12-main-page-camp_2015_wiki.md
 inFeed: true
 authors: []
@@ -16,9 +16,9 @@ keywords:
   - ziegeleipark
   - mildenberg
 author:
-  - name: ' Friedemann W.-W.'
+  - name: ''
     url: ''
-dateModified: '2016-07-20T11:09:31.036Z'
+dateModified: '2016-07-20T11:09:13.433Z'
 title: CCCamp15
 tags:
   - ''
@@ -28,10 +28,10 @@ publisher:
   url: 'https://events.ccc.de'
   favicon: null
 description: >-
-  Nearly a week of camping and nerding out.  We started preparing for CCCamp
-  weeks before it started. I had a secret project for the camp with ijon. We
-  were going to build a 1 to 42 scale model of the c-base antenna, some people
-  also call it the tv-tower.
+  The Chaos Communication Camp is an international, five-day open-air event for
+  hackers and associated life-forms. It provides a relaxed atmosphere for free
+  exchange of technical, social, and political ideas. The Camp has everything
+  you need: power, internet, food and fun. Bring your tent and participate!
 inLanguage: en
 inNav: false
 starred: false
@@ -41,6 +41,8 @@ _type: MediaObject
 
 ---
 # CCCamp15
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32c20aaf77b6deea93968cee370d91ad0e8995da.png" /><h1>CCCamp15</h1></article>
 
 Nearly a week of camping and nerding out.   
 We started preparing for CCCamp weeks before it started. I had a secret project for the camp with ijon. We were going to build a 1 to 42 scale model of the c-base antenna, some people also call it the tv-tower.
