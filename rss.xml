@@ -4,11 +4,18 @@
         <description><![CDATA[Wandering monster]]></description>
         <link>http://wanderingmonster.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 11:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 11:14:25 GMT</lastBuildDate>
         <atom:link href="http://wanderingmonster.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[On staying dry]]></title>
+            <description><![CDATA[<article><h1>On staying dry</h1><p>Rain, the ever present companion of trips. The problem that needs to be adressed is how to protect yourself from rain. Though I usually opt in to just have a single solution to a problem, with rain I have chosen to address staying dry with a dual solution; umbrella for city trips and rain jacket for more outdoorsy trips.</p></article>]]></description>
+            <link>http://wanderingmonster.net/on-staying-dry/index.html</link>
+            <guid isPermaLink="false">708d50dc-2b37-4c92-b528-e6b5f24b1958</guid>
+            <pubDate>Wed, 20 Jul 2016 11:14:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[CCCamp15]]></title>
-            <description><![CDATA[<article><h1>CCCamp15</h1><p>Nearly a week of camping and nerding out.  We started preparing for CCCamp weeks before it started. I had a secret project for the camp with ijon. We were going to build a 1 to 42 scale model of the c-base antenna, which some people call the Berlin tv-tower.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ea4cb2f9a64bcac3abb1cf83f636f2940e1bd71.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>CCCamp15</h1><p>Nearly a week of camping and nerding out. We started preparing for CCCamp weeks before it started. I had a secret project for the camp with ijon. We were going to build a 1 to 42 scale model of the c-base antenna, which some people call the Berlin tv-tower.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ea4cb2f9a64bcac3abb1cf83f636f2940e1bd71.jpg"></article>]]></description>
             <link>http://wanderingmonster.net/cccamp15/index.html</link>
             <guid isPermaLink="false">f772c6e4-6871-4a00-a852-e17009bf48b0</guid>
             <pubDate>Wed, 20 Jul 2016 11:11:40 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://wanderingmonster.net/sailing-with-schooner-helena/index.html</link>
             <guid isPermaLink="false">84273e50-1d25-423e-9518-8e5a39d77242</guid>
             <pubDate>Thu, 07 Jul 2016 08:44:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Everyday items]]></title>
-            <description><![CDATA[<article><h1>Everyday items</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfd807d788579617d1df789ff9be6cfb184045dc.jpg"></article>]]></description>
-            <link>http://wanderingmonster.net/everyday-items/index.html</link>
-            <guid isPermaLink="false">f7efd460-e69a-4863-a8be-ac7f4df74b14</guid>
-            <pubDate>Wed, 17 Feb 2016 18:39:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
