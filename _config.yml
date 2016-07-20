@@ -1,6 +1,6 @@
 name: Wandering monster
 favicon: null
-layout_spectrum: 0.62452
+layout_spectrum: 0.31789
 typography_spectrum: 0.57967
 style: the-composer
 cta:
@@ -23,7 +23,7 @@ color:
     - '#8a9dab'
     - '#adc0cf'
   brandStrength: 0.5
-  lightness: 0.0625
+  lightness: 0.375
   saturation: 0.5
   rhythmicContrast: 0.25
 purpose: []
