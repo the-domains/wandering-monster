@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-20T10:46:39.321Z'
+datePublished: '2016-07-20T10:47:17.162Z'
 sourcePath: _posts/2016-02-02-x-mas-in-finland.md
 inFeed: true
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T10:46:38.849Z'
+dateModified: '2016-07-20T10:47:16.643Z'
 title: x-mas in Finland
 publisher: null
 description: >-
