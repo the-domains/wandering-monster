@@ -4,8 +4,15 @@
         <description><![CDATA[Wandering monster]]></description>
         <link>http://wanderingmonster.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 11:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 11:22:55 GMT</lastBuildDate>
         <atom:link href="http://wanderingmonster.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GR 0 - on the road for the first time.]]></title>
+            <description><![CDATA[<article><h1>GR 0 - on the road for the first time.</h1><p>Finland was the destination for the first trip with my new Goruck GR0 backpack. 21 liters of space, which I extended a bit with a plastic bag attached to the MOLLE webbing outside the bag as I had to acquire some unplanned additions to my travel set (namely a dress and shoes to fit a fine wedding party).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d133af63232b8442102434a6f10ae7453e5e33d.jpg"></article>]]></description>
+            <link>http://wanderingmonster.net/gr-0-on-the-road-for-the-first-time/index.html</link>
+            <guid isPermaLink="false">bae50dee-ed58-4960-866b-c88e80a15cb8</guid>
+            <pubDate>Wed, 20 Jul 2016 11:22:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On staying dry]]></title>
             <description><![CDATA[<article><h1>On staying dry</h1><p>Rain, the ever present companion of trips. The problem that needs to be adressed is how to protect yourself from rain. Though I usually opt in to just have a single solution to a problem, with rain I have chosen to address staying dry with a dual solution; umbrella for city trips and rain jacket for more outdoorsy trips.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://wanderingmonster.net/spa-baltic-sea-how-to-scrub-your-face-with-hails/index.html</link>
             <guid isPermaLink="false">04f3b82a-4dcb-4a1e-b29a-707c674153aa</guid>
             <pubDate>Thu, 07 Jul 2016 09:30:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sailing with schooner Helena]]></title>
-            <description><![CDATA[<article><h1>Sailing with schooner Helena</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf6246f2-2b54-4673-ac54-b607787ab365.jpg"></article>]]></description>
-            <link>http://wanderingmonster.net/sailing-with-schooner-helena/index.html</link>
-            <guid isPermaLink="false">84273e50-1d25-423e-9518-8e5a39d77242</guid>
-            <pubDate>Thu, 07 Jul 2016 08:44:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
