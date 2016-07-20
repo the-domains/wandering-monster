@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-20T10:41:48.601Z'
+datePublished: '2016-07-20T10:41:54.830Z'
 sourcePath: _posts/2016-01-08-milan-the-ingresse-abaddon-experience.md
 inFeed: true
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T10:41:48.095Z'
+dateModified: '2016-07-20T10:41:54.267Z'
 title: 'Milan, the Ingress Abaddon experience.'
 publisher: null
 description: >-
@@ -27,6 +27,7 @@ One of the Ingress Abaddon events was held in Milan on the 12.12.2015\. We decid
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ec4b9fbeb137d59e754ab8dc207465820036c38.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9acf5bce00b6676e7d694640f6fc111f38a0547.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/04f66a8f87ba36bc357f638f9392c2063d958af8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/10ce72d6312f69322edda96bf4ed39399859f68f.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfa335373febbb5e1118688bc051dbca15f5d7d8.jpg)
 
 The full packing list at [lighterpack][0].
