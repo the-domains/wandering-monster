@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T10:53:33.809Z'
+datePublished: '2016-07-20T10:54:17.525Z'
 sourcePath: _posts/2015-07-21-the-allgaau-alps.md
 inFeed: true
 hasPage: true
@@ -7,7 +7,7 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-20T10:53:32.662Z'
+dateModified: '2016-07-20T10:54:16.486Z'
 title: The Allgäau alps
 publisher: null
 description: >-
