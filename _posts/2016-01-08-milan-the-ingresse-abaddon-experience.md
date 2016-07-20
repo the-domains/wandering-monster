@@ -1,19 +1,19 @@
 ---
+datePublished: '2016-07-20T10:39:57.018Z'
+sourcePath: _posts/2016-01-08-milan-the-ingresse-abaddon-experience.md
+inFeed: true
+hasPage: true
+keywords: []
 author: []
-dateModified: '2016-07-13T09:36:36.704Z'
-datePublished: '2016-07-13T09:36:38.800Z'
+dateModified: '2016-07-20T10:39:56.486Z'
+title: 'Milan, the Ingress Abaddon experience.'
+publisher: null
 description: >-
   One of the Ingress Abaddon events was held in Milan on the 12.12.2015. We
   decided to go and play a bit. The result was a victory for our team and a lot
   of good food and wine and gigantic amount of walking.
-hasPage: true
-inFeed: true
 inNav: false
-keywords: []
-publisher: null
-title: 'Milan, the Ingress Abaddon experience.'
 starred: false
-sourcePath: _posts/2016-01-08-milan-the-ingresse-abaddon-experience.md
 url: milan-the-ingresse-abaddon-experience/index.html
 _type: Article
 
