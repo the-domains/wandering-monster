@@ -2,8 +2,8 @@
 description: >-
   3706nm of sailing. From Tenerife to Mindelo to Barbados to Tobago Cays to
   St.Lucia to Martinique. An absolutely fabulous month of my life.
-dateModified: '2016-07-20T14:28:40.465Z'
-datePublished: '2016-07-20T14:28:40.962Z'
+dateModified: '2016-07-20T14:29:06.174Z'
+datePublished: '2016-07-20T14:29:08.229Z'
 title: The voyage across the Atlantic
 author: []
 isBasedOnUrl: >-
