@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-20T11:20:42.144Z'
+datePublished: '2016-07-20T11:21:58.448Z'
 sourcePath: _posts/2016-02-17-on-staying-dry.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-20T11:20:41.207Z'
+dateModified: '2016-07-20T11:21:56.596Z'
 title: On staying dry
 publisher: null
 description: >-
@@ -32,7 +32,7 @@ On umbrellas I made quite a bit of research which basically lead nowhere. Yes, t
 
 I ended up choosing a local brand,[EuroSchirm][0], the model I chose was [Light Trek][1]. I could have chosen a model that is lighter and smaller, but I didn't. I have the space and I can carry the weight. Fewer hinges gives out fewer places where the umbrella can break. The previous umbrella I had in this size held up for 6 years (did not carry it with me every day), I hope this one will do as much at least.
 
-Regarding the rain jacket, I was sold when I saw how small the rain jacket Houdini from Patagonia goes! My friend had one in his backpack and pulled it out when there was a slight drizzle. Amazing. It slightly larger than my fist and what came out seemed like a nice small rain jacket. Tried it (it was mens Houdini) and came to the conclusion that I definately need the womens version. My butt did not fit in, although otherwise the jacket was of a good fit. Tried to buy it immediately only to find out that the womens models come in horrific shades of pastels. Nope, nope, nope. 
+Regarding the rain jacket, I was sold when I saw how small the rain jacket Houdini from Patagonia goes! My friend had one in his backpack and pulled it out when there was a slight drizzle. Amazing. It slightly larger than my fist and what came out seemed like a nice small rain jacket. Tried it (it was mens Houdini) and came to the conclusion that I definately need the womens version. My butt did not fit in, although otherwise the jacket was of a good fit. Tried to buy it immediately only to find out that the womens models come in horrific shades of pastels. Nope, nope, nope. I will not look like a merry village idiot. So, I shall be waiting if Patagonia in their great wisdom will release the womens houdini in black, or find a replacement for it.
 
 [0]: http://www.euroschirm.com/
 [1]: http://www.euroschirm.com/schirm/LightTrek/index.cgi
