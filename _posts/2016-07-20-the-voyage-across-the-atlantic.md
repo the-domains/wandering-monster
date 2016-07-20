@@ -1,26 +1,31 @@
 ---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
 description: >-
   3706nm of sailing. From Tenerife to Mindelo to Barbados to Tobago Cays to
   St.Lucia to Martinique. An absolutely fabulous month of my life.
-dateModified: '2016-07-20T14:29:06.174Z'
-datePublished: '2016-07-20T14:29:08.229Z'
+datePublished: '2016-07-20T14:59:19.795Z'
+dateModified: '2016-07-20T14:52:37.377Z'
 title: The voyage across the Atlantic
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4438cdf9-6f9a-418c-ac81-38268d363cd9.jpg
-sourcePath: _posts/2016-07-20-the-voyage-across-the-atlantic.md
+authors: []
+publisher: null
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+sourcePath: _posts/2016-07-20-the-voyage-across-the-atlantic.md
+url: the-voyage-across-the-atlantic/index.html
+_type: Article
 
 ---
 # The voyage across the Atlantic
 
 3706nm of sailing. From Tenerife to Mindelo to Barbados to Tobago Cays to St.Lucia to Martinique. An absolutely fabulous month of my life.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/301397faae7f27fd74f5eec8c5fe28ed899b4c8e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18d2ff43-39f7-47e2-983c-87adb982b5af.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4438cdf9-6f9a-418c-ac81-38268d363cd9.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fba190de-d9a2-45b8-ae1e-3478071d0d8b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9618b88b-1ff5-4dbb-a8cc-8d577b8c4f77.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/10b986c3-fbf4-43b2-a321-a2fbed0e9ba6.jpg)
 
-The crossing
+Towards Mindelo
+
+Mindelo
