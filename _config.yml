@@ -2,7 +2,6 @@ name: Wandering monster
 favicon: null
 layout_spectrum: 0.31789
 typography_spectrum: 0.57967
-style: the-composer
 cta:
   domain: null
   bucket: null
@@ -27,3 +26,4 @@ color:
   saturation: 0.5
   rhythmicContrast: 0.25
 purpose: []
+github: true
